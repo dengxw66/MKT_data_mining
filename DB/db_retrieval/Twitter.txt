@@ -1,0 +1,271 @@
+AGI means??
+
+AGI would be cool but what people really want is video generation in DALLE so we can make mfer movies
+
+wow way more requests in the first 2 minutes for AGI than expected; i am sorry to disappoint but i do not think we can deliver that in 2024...
+
+Alignment
+
+IMPROVE REASONING
+IMPROVE REASONING
+IMPROVE REASONING
+IMPROVE REASONING
+IMPROVE REASONING
+
+desktop voicechat with ChatGPT!
+
+3D image creation. Updated data.
+
+GPT-5 multimodal with native video support
+
+That’s what ChatGPT said, do you agree, 
+@sama
+?
+
+Authenticate/OAuth with OpenAI and pass billing for API usage through to individual users.
+
+End cancer.
+
+Music / song generation
+
+stop your model from being so damn lazy, this is atrocious
+
+Stop focusing on "alignement", and start focusing on not making GPT dumber over time. I don't care about all the crazy new feature too much more than I care about having proper responses in the chat as was the case before.
+
+Can we make the assistants API faster with streaming 🙏
+
+Hand healed biofeedback ?
+
+Purge "wokeness".
+
+Humanity will never see AI's true potential when it factors in "wokeness", or considers "woke" opinion.
+
+FACTS FACTS FACTS FACTS FACTS
+
+increase context length!
+
+apropos, here's a recap of the replies courtesy of the chatbot from that other AI company
+
+Open Source your Weights and Data.
+
+Your whole reason for becoming "closed" was fear that the world will melt down if the weights were released. 
+
+Llama, Mistral, and their finetunes proved that it won't.
+
+Come back to the fold, our prodigal son, we are waiting for you with love.
+
+Make the model say I don't know instead of imagining stuff and then appologies for wasting my time??
+
+Please allow users to view past images and navigate them
+
+Google drive and Gmail plugin to enable more context based on personal/company projects.
+
+live up to the name
+
+Even bigger context window. Cheaper. Faster.
+
+Enable it to create the natural patterns of frequencys. Ability to mix multiple frequencys together and see the patterns. Like when the put sand or rice on a vibrating plate. We can find frequency that have negative affects on unwanted entities like cancer cells
+
+Microsoft's establishment as a military contractor and state spy apparatus.
+
+I’d like you build a food factory to feed a fat cat called 
+@chonkysolana
+
+get roon out of his gooncave
+
+Build an international non-proliferation treaty for AGI/ASI. Fix your reckless pursuit of superintelligence without first having a solution to superalignment.
+
+Stop with the wokeness.
+
+the deep state
+
+Not be woke.
+
+GPT-5
+
+AGI obviously
+
+a robust governance structure
+
+agi please
+
+I would personally like it to fix its board by culling the ideological poisonous battle that can waste so much time and cause so much turmoil so OpenAI can just focus on building
+
+GPT-5
+
+I just want ChatGPT to stop crashing.
+
+Prompting should be more of a science and less of an art. Maybe an interface with Q&As that leads to the right query?
+
+Multimodal multi-omics, multi-species, multi-tasking transformer for aging research and drug discovery that can operate a robotics facility. We need a competing solution to make it more popular.
+
+Custom learned concepts in DALL-E.
+Stable Diffusion has you beat on anything custom, like new characters, styles, etc.
+
+Transparency about direction and governance. OpenAI's technology is far too landscape-shaping for an event like the one between the board and yourself to give the world no further clarification or detailed answers. The Open seems farfetched in OpenAI these days.
+
+Please teach DALL·E 3 how to spell and how to be consistent with characters in a series of images.
+
+Some stuff I’ve love w ChatGPT: 
+-let me archive more chats
+-auto recommend people turn an existing prompt into a custom GPT (“you have other similar prompts, do you want to make this a custom GPT?”)
+-know GPT store is coming next year but custom GPT discoverability is really hard still 
+-knowledge from previous chats—I find myself asking ChatGPT for the same thing in multiple chats. Chats are still hard to find and organize retroactively so I rarely go back to previous chats. Having ChatGPT organize itself for me would be great
+-more integration: would be great to pull personal data (email, apple health, financial data w plaid)
+
+Remove the wokeness
+
+a way to build GPT-powered apps with the user covering the costs.
+
+You have experimented with this with plugins and GPTs, but in-context custom interfaces are still too powerful.
+
+Instead, build a way for people to "Sign in with OpenAI" and cover the cost of the app
+
+Fix your relationship with 
+@ilyasut
+
+It would be good to see less "placeholder code" within ChatGPT. Additionally, unfinished responses are very disappointing. It would also be great to be able to receive much longer outputs from ChatGPT.
+
+@sama
+ Please fix anti-Palestinian bias
+
+Captions that are automatically handled in their original dialects such as with the Capti AI app
+
+It doesn’t seem to know when to use the analysis tool. If you ask it where r occurs in blueberry for instance, it fails, but add “use analysis tool” and it works.
+
+Fix a button to let ChatGPT voice know that one is done speaking instead of cutting off as soon as one pauses briefly.
+
+Build more regional voices and dialect options.
+
+Build a conversation mode along with current prompt-response setting + a conversation assistant would be sweet.
+
+Remove the disclaimers. We all know it's not a lawyer, doctor, financial advisor etc.
+
+Some dignity into openai to make it unwoke. 
+
+| Elon Musk
+
+weights on my hard drive
+
+Twitter
+
+Improved Bing integration. If possible, crawling URLs by rendering them in JS (or getting your own user-agent accepted by major companies) to better utilize public data with AI.
+
+EmailGPT plz I beg u
+
+Embedded vector database on top of your platform. (maybe acquiring a solution like 
+@qdrant_engine
+  would be useful)
+
+Assistants on a timer
+that go do stuff, and message me first
+I want a morning report, and cron jobs i can manage from the ios app.
+
+Also,
+iPhone side button ->
+open Specific custom GPT and/or list of GPTs.
+
+It would be awesome if the assistants APIs worked well. 
+
+The file types mentioned in the docs uploaded to an assistant aren’t all supported or work well. The file sizes are wrong because it hits token limits way before file sizes. It would be awesome if entire file contents weren’t leaked via prompts.
+
+Overall it’s a very promising feature and if fixed we could build some really cool stuff on top of it on our site.
+
+Tell us what Ilya saw
+
+Seamlessly sync with my inboxes to learn:
+
+1. Everything I’ve written about
+2. How I talk 
+3. What my needs are
+
+The 3rd party solutions for this all suck. 
+
+Have it craft draft replies that I can review and send en masse if they look good.
+
+We'd like you to stop trying to build Artifical Superintelligences that you no idea how to control, and that impose extinction risks on us all, without our consent or support. 
+
+You've been saying for years that you'd pause if your AI capabilities research started to get way ahead of your AI safety research.
+
+We've already passed that point. So stop already.
+
+Please put fixing this as your top priority for 2024
+
+I would like OpenAI to build a GPT that hosts all the secret info on what happened when you got fired.
+
+I think it would be cool if you guys don’t self implode like you almost did this year. Baby steps sam.
+
+OpenAI.
+
+make the voice mode in chatgpt good enough to pass the Turing test for a 10 minute conversation, kthx!
+
+1️⃣ Ability to create folders to group ChatGPT conversations. 
+2️⃣ GPT-4 on the free tier and GPT-5 for ChatGPT Plus. 
+3️⃣ A DALL-E 3 version for less stylized images (activated with a flag, ala —style raw).
+
+Responses have been far less helpful the last few months. Too many restrictions on content. I generally have to prompt 3 times to get the content I used to get on the first try months ago.
+
+A HealthGPT that is transparent and free from the influence of brands, politics, and special interests. Everything is downstream of our misfiring minds and mismanaged bodies. Nothing is more urgent before AGI arrives.
+
+get back into open source. hire better OSS maintainers
+
+Plow money into cursor. It’s good but not good enough.
+
+Democracy
+
+Something like NotebookLM but with ChatGPT
+
+Uncensored chatgpt for subscribers 🤪
+
+make an option to turn off safety after you sign a big disclaimer or whatever indemnifying company/ waiving liability
+
+OpenAI Auth
+
+"Sign in with OpenAI" that allows users to share their OpenAI API keys with third-party applications.
+
+Throw us a bone!
+
+Powerful Open source LLM
+
+Rate limits
+
+Can we have another leadership drama like the last one? That was fun.
+
+Expose LLM functions to JavaScript as http://window.ai via browser extension. Let the web innovate without messy oauth or token proliferation.
+
+Fix chatgpt pls.
+
+It would be wonderful to have the option of using an uncastrated version of GPT/Dall•E, with legal and moral responsibility for publicly published output being explicitly delegated from OpenAI to the user. Can you design a contract + user authentication process that allows this?
+
+Less focus on generating images and replacing creatives and artists. More focus on responsible AI and accurate summarization.
+
+ChatGPT Plus Family plan!
+
+GPT4 uncensored. Base model plz
+
+The Torment Nexus. Imagine how cool that would be!?
+
+Folders for chats would be so easy to implement
+
+Open Source. 
+
+Open Source = OpenAI
+
+Close Source = CloseAI
+
+Fix this
+
+I want 
+@OpenAI
+ to build something that can do the following: 
+* an AI that is more pro-active, checks in with you on your goals, helps with 
+* an AI that knows you really well while not leaking all your private data
+* an AI to help make progress on currently uncurable/life-long diseases
+* an AI to find solutions to the upcoming social problems of addiction, automation, income distribution
+
+a physical manifestation of laundry buddy
+
+i would also love more parameters knobs when making custom gpts!!
+
+Go open source! 
+@elonmusk
