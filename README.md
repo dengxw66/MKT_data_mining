@@ -1,6 +1,3 @@
-# MKT_data_mining
-
-
 # MKT Data Mining
 
 ## Data Collection
