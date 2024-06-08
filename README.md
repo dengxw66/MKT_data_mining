@@ -14,7 +14,7 @@
     - Multimodal embedding alignment
     - Image-to-text caption
 
-## Human-AI Interaction Environment Simulation
+## Human-AI Interaction Environment
 
 1. **[[`Human_AI_Interaction`](https://gitee.com/dengxw66/MKT_data_mining/tree/master/human_AI_interaction)]**: GPT-API usage.
 2. **[[`LLM`](https://gitee.com/dengxw66/MKT_data_mining/tree/master/LLM)]**: Training a LLM to simulate specific consumers.
