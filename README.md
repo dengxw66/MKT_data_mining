@@ -16,7 +16,7 @@
 
 ## ML Causal Inference
 
-1. **[[`Causal`](https://gitee.com/dengxw66/MKT_data_mining/tree/master/Causal)]**: samples of ML-based causal inference.
+1. **[[`Causal`](https://gitee.com/dengxw66/MKT_data_mining/tree/master/Causal)]**: Samples of ML-based causal inference.
 
 ## Human-AI Interaction Environment
 
