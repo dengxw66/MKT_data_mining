@@ -14,6 +14,10 @@
     - Multimodal embedding alignment
     - Image-to-text caption
 
+## ML Causal Inference
+
+1. **[[`Causal`](https://gitee.com/dengxw66/MKT_data_mining/tree/master/Causal)]**: samples of ML-based causal inference.
+
 ## Human-AI Interaction Environment
 
 1. **[[`GPT`](https://gitee.com/dengxw66/MKT_data_mining/tree/master/GPT)]**: GPT-API usage.
