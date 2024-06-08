@@ -1,4 +1,4 @@
-# MKT Data Mining
+# Data Mining for marketing research
 
 ## Data Collection
 
