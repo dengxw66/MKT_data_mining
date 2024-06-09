@@ -3,16 +3,16 @@
 ## Data Collection
 
 1. **[[`Crawler`](https://gitee.com/dengxw66/MKT_data_mining/tree/master/Crawler)]**: Crawler script to get data, such as from social media platforms.
-2. **[[`Survey`](https://gitee.com/dengxw66/MKT_data_mining/tree/master/Survey)]**: Complex questionnaire programming, such as Qualtrics.
+2. **[[`Survey`](https://gitee.com/dengxw66/MKT_data_mining/tree/master/Survey)]**: Complex questionnaire programming, such as 'Qualtrics'.
 
 ## Unstructured Data Processing
 
 1. **[[`DB`](https://gitee.com/dengxw66/MKT_data_mining/tree/master/DB)]**: Text processing:
-    - NLP: Topic modeling, sentiment analysis, word frequency statistics
-    - Document: Questioning, summary, retrieval
+    - NLP: Topic modeling, sentiment analysis, word frequency statistics.
+    - Document: Questioning, summary, retrieval.
 2. **[[`Multimodal`](https://gitee.com/dengxw66/MKT_data_mining/tree/master/Multimodal)]**: Image processing:
-    - Multimodal embedding alignment
-    - Image-to-text caption
+    - Multimodal embedding alignment.
+    - Image-to-text caption.
     - Use images/text as features for binary classification.
 
 ## ML Causal Inference
