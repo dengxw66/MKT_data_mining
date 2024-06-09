@@ -1,0 +1,1162 @@
+[
+    {
+        "image": "1.png",
+        "caption": "This image features a beautiful white dress that is perfect for a fancy night out! The long sleeves and V-neck add a touch of sophistication, while the flowy skirt makes it feel like a true showstopper. To top it all off, the neutral color palette means it can be paired with just about any accessory. Get ready to turn heads in this stunning dress!",
+        "label": 1
+    },
+    {
+        "image": "2.png",
+        "caption": "The person in the image is wearing a sky blue long-sleeved shirt, paired with matching pants, white high-top sneakers, and a black belt with a silver buckle. The outfit gives off a clean and simple aesthetic.",
+        "label": 0
+    },
+    {
+        "image": "3.png",
+        "caption": "This is a beautiful, pastel-colored outfit! The pink skirt is the perfect length and material for summer. I love how it flows when I walk. The white top is very cute and looks comfortable. It's the perfect match for the skirt. I finished the look with some cute accessories, including a white purse that matches my shirt and some slides that are so comfortable to wear. I think this is a great, casual summer outfit!",
+        "label": 1
+    },
+    {
+        "image": "4.png",
+        "caption": "The girl in the image is wearing a pair of grey pants, which are high-waisted and have a loose fit. She also has a black top with short sleeves and a round collar. The outfit is completed with a black belt and white sneakers. The grey pants have a unique texture that gives them a slightly slouchy appearance. The black top is simple and elegant, with no extra frills or decorations. The belt adds a touch of sophistication to the outfit, while the white sneakers provide a casual and comfortable feel. Overall, the clothes in the image are well-coordinated and create a stylish yet relaxed look.",
+        "label": 1
+    },
+    {
+        "image": "5.png",
+        "caption": "In this image, we can see a beautiful young lady posing on some stairs. She's wearing a trendy off-shoulder light blue sweater, paired with a elegant white skirt. The sweater has a fashionable knitted texture, and the off-shoulder design adds a sense of mystery to the outfit. As for the white skirt, it's made of a shiny material that reflects light, giving the outfit a touch of elegance. To complete the look, she's carrying a white handbag with a silver chain strap and wearing a pair of black platform shoes. Her bright red lips and fresh makeup add a pop of color to the whole outfit. This is definitely an outfit that any fashionista would love to copy!",
+        "label": 1
+    },
+    {
+        "image": "6.png",
+        "caption": "This is a beautiful white dress, perfect for summer! The lace material is so elegant and the fit is so flattering. I love the short sleeves and the V-neckline. It's such a versatile dress, I can't wait to wear it to a party or on a date. The model looks so happy and confident in this outfit, it's definitely a must-have for any fashionista. #whitefloraldress #summerstyle #fashionblogger",
+        "label": 1
+    },
+    {
+        "image": "7.png",
+        "caption": "This is a very cute and girly outfit, perfect for a day out with friends or a special date. The black and white polka dot skirt is so elegant and pairs perfectly with the simple white top. The black cardigan adds a touch of sophistication and warmth to the outfit, making it perfect for cooler days. The neutral colors of the shoes and bag complement the outfit perfectly, and the small black bag is a great accessory to hold all the essentials. Overall, this is a very stylish and put-together look that is sure to turn heads.",
+        "label": 0
+    },
+    {
+        "image": "8.png",
+        "caption": "This is a beautiful light blue vintage skirt, the fabric looks very good, the size is also very suitable, it is really a good choice to recommend! Wore it with a high-necked pink top, it was very stylish! Also, the bag the girl is carrying is very cute, it is pink and has white dots, it matches the girl's skirt very well. As for the girl's shoes, they are very simple, white shoes with no heels, very comfortable to wear.",
+        "label": 1
+    },
+    {
+        "image": "9.png",
+        "caption": "The girl in the picture is very cute, with long brown hair. She is wearing a short beige skirt and a long-sleeved blue top, both of which are casual and comfortable. She also has a small bag on her left shoulder, which is pink and has white stripes. She is wearing white sports shoes with grey shoelaces.",
+        "label": 1
+    },
+    {
+        "image": "10.png",
+        "caption": "The model in the image is wearing a pair of light blue jeans with a yellow plaid shirt and yellow boots. The shirt has a loose fit and is a mustard yellow color with blue and white stripes. The jeans are a light blue wash with a straight fit. The boots are also mustard yellow in color. This outfit gives off a casual and comfortable vibe, perfect for a day out with friends or running errands.",
+        "label": 0
+    },
+    {
+        "image": "11.png",
+        "caption": "In the image, we can see a young woman dressed in a white outfit. She is wearing a white T-shirt with a design on it, and a white skirt that appears to be made of a soft and comfortable material. She also has a light blue bag with a strap, which complements the overall look. The outfit is completed with white socks and gray shoes with a low heel. The woman's hair is neatly styled, and she is showing her beautiful smile. This outfit is perfect for a casual yet stylish look, suitable for everyday wear or even for going out with friends.",
+        "label": 1
+    },
+    {
+        "image": "12.png",
+        "caption": "In the image, we can see a beautiful young lady dressed in a stunning lemon yellow dress. The dress is of a simple design, with a V-neckline and no sleeves. It perfectly accentuates the wearer's figure, showing off their elegant and graceful side. \n\nThe lady also carries a trendy straw bag with a strap, adding a touch of casual elegance to her overall look. The bag has a spacious interior, perfect for carrying all sorts of essentials. \n\nCompleting the outfit, the lady is wearing a pair of stylish sandals. The sandals are open-toed, showing off her pretty toes and adding a touch of playfulness to the outfit.",
+        "label": 0
+    },
+    {
+        "image": "13.png",
+        "caption": "This look is so chic and sophisticated! The gray skirt is so flattering, and the belt really brings it all together. I love the simple white tee as well, it's so versatile. And those white slides are the perfect accessory to complete the look. I could so see myself wearing this to a fancy dinner or maybe even a casual lunch with friends. Love it!",
+        "label": 1
+    },
+    {
+        "image": "14.png",
+        "caption": "This is a white, short-sleeved, long dress. It looks very comfortable and cool, especially suitable for summer wear. The fabric is white cotton, which is very delicate and soft, with a very good\u624b\u611f. The overall style is very simple and generous, with a sense of fashion.",
+        "label": 0
+    },
+    {
+        "image": "15.png",
+        "caption": "In this image, we can see a beautiful young woman posing for a photo. She is wearing a stunning black dress, which really highlights her figure. The dress has a classic and elegant design, with a simple yet\u65f6\u5c1a silhouette. The fabric of the dress appears to be of high quality, with a smooth and comfortable feel. The color of the dress is also very flattering, accentuating the woman's skin tone and making her look even more beautiful. Overall, this is a perfect choice for a special occasion or a elegant event.",
+        "label": 0
+    },
+    {
+        "image": "16.png",
+        "caption": "The model in this image is wearing a sage green square neck crop top with a matching sage green high waist wide leg pant. The crop top has a short sleeve and a cross strap design on the shoulder. The wide leg pant is high waist and has large pockets. The model also wears a white handbag. This outfit is simple and elegant, perfect for a casual summer outfit.",
+        "label": 0
+    },
+    {
+        "image": "17.png",
+        "caption": "The woman in the image is wearing a pair of wide leg khaki pants, which are very comfortable and versatile. She also wears a khaki top, with a very cool and casual style. The whole outfit is very suitable for outdoor activities, and the color is very fresh and bright.",
+        "label": 0
+    },
+    {
+        "image": "18.png",
+        "caption": "This image features a model showcasing some very\u65f6\u5c1a\u7684\u7a7f\u642d\u3002 She's wearing a white, see-through\u9488\u7ec7\u886b with some unique buttons on the front, paired with a pair of high-waisted, black pants adorned with small white pearls. The pants have a flowing silhouette and are a dark shade of blue. The model's silver shoes and long black braids complement the outfit, exuding an air of\u81ea\u4fe1 and style. This is a truly remarkable ensemble, perfect for making a statement at any event.",
+        "label": 1
+    },
+    {
+        "image": "19.png",
+        "caption": "The woman in the image is wearing a black long-sleeved top with a black choker necklace, white cargo pants, and silver shoes. The black top has a black lace off-the-shoulder design and is long enough to be tucked in. The white cargo pants have a straight leg cut and are very loose-fitting, with two large pockets on the sides. The silver shoes are high-top sneakers with thick soles, creating a fashionable and stylish look.",
+        "label": 1
+    },
+    {
+        "image": "20.png",
+        "caption": "The model in the image is wearing a white tank top, camouflage pants, and white platform shoes. The tank top is see-through and has a scoop neckline, showing off the model's black bra. The camouflage pants are baggy and have multiple pockets on both sides. The platform shoes are white and have a thick sole, adding a sense of fashion to the whole outfit.",
+        "label": 0
+    },
+    {
+        "image": "21.png",
+        "caption": "This pic is so lit! I'm lovin' the yellow tank top and high waist jeans. The wide leg jeans are so in right now and the color is so fresh. The matching choker is a nice touch. Her long black hair is a beautiful color and she looks so stylish.",
+        "label": 0
+    },
+    {
+        "image": "22.png",
+        "caption": "In this image, we can see a beautiful young lady with long black hair. She is wearing a pair of high-waisted, wide-leg khaki pants, which are both fashionable and comfortable. These pants perfectly accentuate her slender legs and create a very elegant and sophisticated look. Paired with a skin-tight yellow crop top, the outfit is both trendy and eye-catching. Overall, this is an excellent example of stylish and fashionable clothing that is perfect for any occasion.",
+        "label": 0
+    },
+    {
+        "image": "23.png",
+        "caption": "This pic is so lit! I'm lovin' the casual yet edgy look of the model. The grey t-shirt and high-waisted jeans are giving me major fashion vibes. And those sneakers are so in right now. I'm definitely incorporating this outfit into my wardrobe. #ootd #fashionblogger #ootdinspo",
+        "label": 0
+    },
+    {
+        "image": "24.png",
+        "caption": "The model in the image is wearing a white long-sleeved crop top and a pair of white wide-legged pants. The long-sleeved top has a high collar and a small opening on the back, showing a little skin. The pants are made of a soft and comfortable fabric, with large pockets on both sides. The model's hair is long and black, and she is wearing glasses. She is wearing a pair of white sneakers with silver shoelaces. This outfit is simple, clean, and very suitable for spring and autumn. It can be worn for daily wear or for casual outings.",
+        "label": 1
+    },
+    {
+        "image": "25.png",
+        "caption": "In this image, we see a model wearing a pair of white pants and a black top. The white pants have a loose fit, accentuating the model's legs. The black top is sleeveless, showing off the model's shoulders and chest. The model also wears a black hat, adding a touch of elegance and mystery to the outfit. The overall style is casual yet fashionable, perfect for a day out or a casual event.",
+        "label": 1
+    },
+    {
+        "image": "26.png",
+        "caption": "The model is wearing a black hat, a white top with black dots, and black pants. The top is turtleneck and has long sleeves. The model is also carrying a black bag and wearing white shoes.",
+        "label": 1
+    },
+    {
+        "image": "27.png",
+        "caption": "This is a beautiful and elegant outfit, perfect for a night out or a special occasion. The white top is very flattering, and the ruffles add a touch of extra sophistication. Paired with the black skirt, this look is both stylish and sophisticated. I love how the white top contrasts with the black skirt, it's a very visually appealing combination. Definitely a must-try outfit for any fashionista.",
+        "label": 0
+    },
+    {
+        "image": "28.png",
+        "caption": "In this image, we see a beautiful young woman posing in a doorway. She is wearing a black top with a scoop neckline and long sleeves, and is also wearing a pair of baggy camouflage pants. The pants are a full-length, high-waisted design with multiple pockets, giving them a practical and stylish appeal. The overall look is completed with a pair of black shoes. This outfit is perfect for a casual yet fashionable day out, or for making a statement with its unique camouflage print.",
+        "label": 0
+    },
+    {
+        "image": "29.png",
+        "caption": "In this image, we can see a beautiful young woman posing for a photo. She is wearing a stylish gray vest, which is a great choice for a top, as it can add a touch of elegance and sophistication to any outfit. The vest is paired with some fashionable black trousers, which not only look great but also provide a sense of comfort and ease. The overall outfit is completed with a pair of black shoes, which add a touch of sophistication and elegance to the ensemble. This outfit is perfect for a night out or a special event, where one wants to make a stylish statement.",
+        "label": 0
+    },
+    {
+        "image": "30.png",
+        "caption": "This image features a model wearing a black long-sleeved top with a round collar, accompanied by black and white sport pants. The outfit is finished with a pair of sneakers. The model's hair is in a braid, and they are standing in a hallway with a white wall. This outfit is perfect for a casual day out with friends or running some errands. The black and white color scheme adds a touch of sophistication to the sporty pants, making it a versatile and stylish choice for any occasion.",
+        "label": 1
+    },
+    {
+        "image": "31.png",
+        "caption": "This is a casual yet stylish outfit, perfect for a day out with friends or a fun date night! The grey crop top shows off the model's toned abs and pairs perfectly with the loose-fitting jeans that accentuate her long and lean frame. The wide-leg design of the jeans adds a unique touch to the look, making it stand out from typical skinny jeans. The model's UGG sneakers add a touch of comfort and luxury to the overall ensemble. This outfit is both trendy and versatile, with endless styling options. Wear it with sneakers or heels, a crop top or a cami - the possibilities are endless!",
+        "label": 0
+    },
+    {
+        "image": "32.png",
+        "caption": "The girl in the image is wearing a black and white crop top with a pattern of dogs' paw prints. The top is a white mesh material with black prints, creating a unique and stylish look. She also wears white pants with the same dog paw print pattern, perfectly matching the top. The overall style is very cute and trendy, suitable for lovers of cute fashion.",
+        "label": 1
+    },
+    {
+        "image": "33.png",
+        "caption": "In this image, we see a young woman posing in a white hoodie and black sweatpants. The hoodie has a zipper, and the young woman is wearing a black hat with the word \"CrushOn\" written on it. The pants are loose and long, and they appear to be made of a shiny material. The overall style is casual and comfortable, perfect for a day of lounging or running errands.",
+        "label": 0
+    },
+    {
+        "image": "34.png",
+        "caption": "The model in the image is wearing a white printed T-shirt and camouflage pants. The T-shirt has a simple design with black and gray patterns, and the sleeves are short. As for the pants, they are loose and wide-leg, with a green camouflage pattern. The model's hands are placed in the pockets of the pants.",
+        "label": 0
+    },
+    {
+        "image": "35.png",
+        "caption": "Model wearing a pair of black wide-leg trousers and a grey tank top. The trousers are high-waisted and flowy, while the tank top is simple and sleeveless. She also wears a black cap and has her hands in her pockets.",
+        "label": 0
+    },
+    {
+        "image": "36.png",
+        "caption": "In the image, the model is wearing a white short-sleeved T-shirt with a printed mouth design, standing in front of a white wall. The T-shirt is designed with different colored mouths, creating a unique and interesting visual effect. The model also wears a black cap and jeans, adding a sense of fashion and individuality to the whole outfit. This outfit is perfect for those who want to stand out in a crowd and make a bold fashion statement.",
+        "label": 0
+    },
+    {
+        "image": "37.png",
+        "caption": "This image features a stylish woman wearing a metallic tank top with a one-shoulder design, paired with high-waisted cargo pants. The tank top has a silver color that shines brightly in the light, adding a sense of fashion and elegance to the outfit. The pants are wide-legged, creating a comfortable and relaxed fit. The overall style of the clothes is trendy and bold, perfect for someone who wants to make a statement.",
+        "label": 0
+    },
+    {
+        "image": "38.png",
+        "caption": "This image features a woman wearing a pair of black, high-waisted jeans with a loose fit. The jeans have a distressed look, with grey paint splatters and abrasions, giving them a vintage and edgy aesthetic. \n\nThe woman is also wearing a white, off-shoulder crop top that shows off her midriff. The top has a casual and relaxed fit, with short sleeves and a loose, flowy design. \n\nCompleting the outfit is a pair of black platform shoes with a significant heel, adding height and drama to the look. The shoes have a sleek and modern design, with a thin ankle strap and a buckle fastening.",
+        "label": 0
+    },
+    {
+        "image": "39.png",
+        "caption": "The girl in the image is wearing a black one-shoulder crop top and high-waisted ripped jeans. The black crop top features a black material with white dotted lines, and the shoulder strap is designed with a hollowed-out mesh fabric. The ripped jeans have a high waist and are decorated with black and white striped details. The girl is also wearing a pair of black platform shoes with a thick heel. This outfit is a perfect example of the current trend in streetwear, with its combination of edgy, destroyed denim and trendy mesh details.",
+        "label": 0
+    },
+    {
+        "image": "40.png",
+        "caption": "The woman in the image is wearing a black crop top and black flared pants. The crop top has a square neck and is sleeveless, showing off her taut midriff. The flared pants are high-waisted and have silver decorations on the legs, creating a unique and stylish look. She's also carrying a black handbag with metal chain straps, completing the all-black outfit.",
+        "label": 0
+    },
+    {
+        "image": "41.png",
+        "caption": "The woman in the image is wearing a white shirt with a floral skirt. The shirt has a simple and classic design, with a collar and long sleeves. The skirt is colorful and has a floral pattern, adding a lively and sweet atmosphere. The outfit is finished with a white handbag and brown shoes, showing a warm and comfortable style.",
+        "label": 0
+    },
+    {
+        "image": "42.png",
+        "caption": "In the image, the girl is wearing a pair of light blue jeans with a high waist and a loose fit, giving a very comfortable feeling. She is also wearing a white t-shirt, which is always a classic choice. The outermost layer is a yellow plaid shirt, with a more casual style. She is also holding a cup of coffee, giving off a relaxed and easy-going vibe. Her choice of clothes is very suitable for a casual outing or a simple everyday look.",
+        "label": 0
+    },
+    {
+        "image": "43.png",
+        "caption": "In the image, we can see a young girl with a fresh and stylish outfit. She is wearing a light purple shirt, which is open at the front, revealing a white bra with a black bow. The shirt is oversized, adding a sense of casualness to the outfit. She also wears black shorts, showing off her long legs. The girl is wearing grey tube socks and white sneakers, which are both comfortable and fashionable. Her hair is tied back in a ponytail, keeping the focus on her outfit. She is also carrying a square bag, which is of a light purple color and matches her shirt. Overall, this outfit is perfect for a day out with friends or for running errands.",
+        "label": 1
+    },
+    {
+        "image": "44.png",
+        "caption": "Top: White t-shirt with black trim Bottom: White layered skirt with drawstring Socks: Grey with white stripes Shoes: Grey New Balance with white sole Bag: Pink with black strap and white stripe on top",
+        "label": 1
+    },
+    {
+        "image": "45.png",
+        "caption": "In the image, the girl is wearing a white T-shirt with red print on it, paired with high-waisted wide-legged jeans in a light blue color. The T-shirt has a simple and casual style, while the jeans add a sense of fashion and individuality. As for the shoes, the girl is wearing white sneakers, which are both practical and fashionable. Overall, this outfit is suitable for daily wear or for hanging out with friends.",
+        "label": 0
+    },
+    {
+        "image": "46.png",
+        "caption": "The girl in the image is wearing a blue short-sleeved top, a white skirt, white socks, and white shoes. She also has a pink bag.",
+        "label": 1
+    },
+    {
+        "image": "47.png",
+        "caption": "The woman in the image is wearing a navy blue crop top with white embroidery on it, paired with a white lace skirt. The top has a round neck and short sleeves, while the skirt is high-waisted and ruffled. She also has on yellow shoes and carries a beige bag.",
+        "label": 0
+    },
+    {
+        "image": "48.png",
+        "caption": "In the image, there's a young woman wearing a beautiful white embroidered dress, looking fresh and lovely. The dress is a long, sleeveless design, perfect for warm weather. It has a halter-style neck, adding a touch of elegance. The dress is made of high-quality fabric, with fine embroidery details that stand out. The woman also carries a stylish wicker bag and wears a straw hat, completing a cool and casual look.",
+        "label": 1
+    },
+    {
+        "image": "49.png",
+        "caption": "In the image, the girl is wearing a short white dress that shows off her legs. She also has on a blue cardigan, which adds a cute and casual touch to her outfit. As for accessories, she has on a pair of white sneakers and is carrying a pink teddy bear as a purse, giving off a sweet and playful vibe.",
+        "label": 1
+    },
+    {
+        "image": "50.png",
+        "caption": "The girl in the image is wearing a beautiful white dress, it is a layered dress with a square neck and no sleeves, very elegant and cool. She also wears a pair of white sneakers and a pink bag with white shoes, very cute and suitable for summer wear.",
+        "label": 1
+    },
+    {
+        "image": "51.png",
+        "caption": "This look is so cute and casual, I love the mix of the denim jacket and the long grey dress, it's perfect for a day out with friends. The denim jacket adds a cool vibe to the outfit and the dress gives it a more feminine touch. And of course, the sneakers make the whole look so comfortable and easy-going. I would totally wear this! #OOTD #OOTDoftheday #fashion #fashionblogger #fashionista #ootdinspo #style #styles #stylespo #ootdinspo #ootdpost #ootdthursday #ootdshare #ootdpost #ootdshare #ootdinspo #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #ootdpost #ootdshare #",
+        "label": 0
+    },
+    {
+        "image": "52.png",
+        "caption": "In the image, we can see a beautiful young Asian girl standing in a lush green field. She's wearing a cute white top with short sleeves and a Peter Pan collar, paired with a black skirt featuring white lace trim. The outfit is finished with a pair of white sneakers and a pink handbag with a Hello Kitty design. The girl's hair is styled with a pink hair tie and a small pink flower clip, adding a playful touch to her overall look. This outfit is perfect for a day out in the countryside, combining elegance and playfulness.",
+        "label": 1
+    },
+    {
+        "image": "53.png",
+        "caption": "The girl in the image is wearing a white short-sleeved t-shirt and high-waisted wide-legged jeans. The t-shirt is simple and has no special patterns or colors. The wide-legged jeans are in a dark blue color and have a high waist design, making the girl look very thin. The overall style is very casual and easy, a popular choice for young people.",
+        "label": 0
+    },
+    {
+        "image": "54.png",
+        "caption": "This is a beautiful red short-sleeved top with white dots, it fits perfectly on the young lady model. She pairs it with a pair of deep blue jeans, the color of the jeans is so refreshing. The wide-leg jeans she wears make her look so tall and slender. Overall, this is a very nice and stylish outfit.",
+        "label": 0
+    },
+    {
+        "image": "55.png",
+        "caption": "In the image, there's a girl wearing a white shirt with pink letters on it. She also wears a long, gray skirt. Her shoes are white and gray, possibly sneakers. She carries a pink bag with a strap.",
+        "label": 0
+    },
+    {
+        "image": "56.png",
+        "caption": "In the image, the girl is wearing a white square neck sleeveless blouse and blue plaid bell-bottom pants. The outfit is very cool and comfortable, with the white blouse and blue plaid pants creating a very nice contrast. The girl also wears a straw hat and carries a straw bag, giving off a very casual and relaxed vibe. This outfit is perfect for a day out with friends or a trip to the beach.",
+        "label": 1
+    },
+    {
+        "image": "57.png",
+        "caption": "Sure, here are some descriptions of the clothes in this image in a social media style tone:\n\n1. \"Omg, I'm in love with this adorable red polka dot top! The puff sleeves and square neck are so trendy right now. Perfect for a summer day out with friends.\"\n\n2. \"I'm feeling so casual and comfy in this wide leg jeans. The denim is so soft and the flared silhouette is so on trend. I paired it with a cute red blouse and some white sneakers for a laid-back yet stylish look.\"\n\n3. \"I'm at the grocery store and I'm feeling so stylish in my new outfit! The red blouse has the cutest white lace trim and the wide leg jeans are so flattering. I finished the look with some white sneakers and a cute woven bag.\"\n\n4. \"I'm loving this outfit for a day out with the girls! The red blouse is so cute and the polka dots are so on trend. I paired it with some wide leg jeans and some white sneakers for a laid-back yet stylish look.\"\n\n5. \"I'm feeling so stylish in this outfit! The red blouse is so cute and the polka dots are so on trend. I paired it with some wide leg jeans and some white sneakers for a laid-back yet stylish look.\"",
+        "label": 1
+    },
+    {
+        "image": "58.png",
+        "caption": "In the image, there is a girl standing on the beach, dressed in a multicolored striped dress. The dress is quite long, reaching down to the girl's feet. The stripes on the dress are very colorful, with a combination of red, yellow, blue, and other colors. The fabric of the dress looks like it might be made of knitted material. The girl is also wearing a white short-sleeved T-shirt under the dress, which is a common styling choice to show off the colors and patterns of the dress.",
+        "label": 0
+    },
+    {
+        "image": "59.png",
+        "caption": "This image features a young woman dressed in a casual yet fashionable outfit. She is wearing a grey cardigan, which is a type of knit sweater, and a black floral skirt. The skirt is a short length and has a pattern of small flowers. The woman also has a pair of white socks on, which complement the outfit. The overall style is trendy and suitable for everyday wear.",
+        "label": 1
+    },
+    {
+        "image": "60.png",
+        "caption": "This is a white V-neck short-sleeved dress, it looks very comfortable and fresh, and the material seems to be of high quality. The model also wears a green denim jacket, the jacket is a little worn out, it looks very casual and cool. She also wears grey-white sports shoes, they are very comfortable and suitable for daily wear. She also wears a black bag with a strap, the bag looks very cute and suitable for carrying small items.",
+        "label": 1
+    },
+    {
+        "image": "61.png",
+        "caption": "The woman in the image is wearing a beautiful floral dress, with a matching headband that accentuates her style. She also has a stylish bag that complements her outfit. The dress is of a vintage style, with a pastel color scheme that is perfect for summer. The woman's outfit is both fashionable and comfortable, making it ideal for a day out in the sun.",
+        "label": 0
+    },
+    {
+        "image": "62.png",
+        "caption": "This image features a beautiful young lady standing on some stairs. She's wearing a cute blue dress with small white flowers on it, paired with a greyish blue cardigan. She's also wearing glasses and has her hair down. Her outfit looks very comfortable and suitable for a casual day out.",
+        "label": 1
+    },
+    {
+        "image": "63.png",
+        "caption": "The girl in the picture is very cute, with long black hair and glasses, wearing a sky-blue woolen cardigan, white trousers, and white sneakers. She carries a small pink bag with crocodile pattern.",
+        "label": 0
+    },
+    {
+        "image": "64.png",
+        "caption": "In the image, there is a beautiful young girl standing on some stairs. She is holding a cup of drink and appears to be very happy. Her outfit is very cute and suitable for a summer day. She is wearing a white lace skirt with several layers, which is very elegant and feminine. In addition, she is also wearing a grey short-sleeved sweater, which is very comfortable and suitable for casual wear. Her bag is pink and of the shoulder type, adding a touch of girliness to the outfit. She is also wearing glasses and has her mouth slightly open as if she is about to say something interesting. Her shoes are white and of the sports type, which are very comfortable and suitable for walking. Overall, her outfit is very cute and suitable for a summer day, and her expression and pose also make her look very cute and attractive.",
+        "label": 1
+    },
+    {
+        "image": "65.png",
+        "caption": "Sure, here are some descriptions of the clothes in this image in a social media style tone:\n\n1. \"Omg, I'm in love with this pastel green crop top! It's so cute and perfect for summer. And those wide leg cargo pants are to die for! I need them in my life.\"\n\n2. \"I'm feeling so chic in this all-white outfit. The wide leg cargo pants are so comfortable and the belt adds just the right amount of detail. And that green crop top is to die for! Love it!\"\n\n3. \"I'm feeling so stylish in this outfit! The white cargo pants are so cute and the wide legs are so in right now. And that pastel green crop top is so cute and perfect for summer. Love it!\"\n\n4. \"I'm feeling so fresh in this all-white outfit. The wide leg cargo pants are so comfortable and the belt adds just the right amount of detail. And that green crop top is so cute and perfect for summer. Love it!\"\n\n5. \"I'm feeling so trendy in this all-white outfit. The wide leg cargo pants are so comfortable and the belt adds just the right amount of detail. And that green crop top is so cute and perfect for summer. Love it!\"",
+        "label": 1
+    },
+    {
+        "image": "66.png",
+        "caption": "In the image, there's a young woman posing on the street. She's wearing a black short-sleeved dress with a round collar, and her hands are in her pockets. The dress is designed in a casual style, with a comfortable fit and a knee-length hem. The woman also has a floral shoulder bag with a red rose pattern, adding a touch of elegance to her outfit. She's wearing a pair of red sneakers with her dress, creating a stylish and trendy look.",
+        "label": 0
+    },
+    {
+        "image": "67.png",
+        "caption": "This is a very cute and stylish outfit! The purple top has a very nice ruffled design and looks so comfortable to wear. I love how the blue jeans flares out and the white accessories really make the whole look pop. It's such a great summer outfit!",
+        "label": 0
+    },
+    {
+        "image": "68.png",
+        "caption": "In the image, a girl is posing on the seashore, dressed in a pink dress. The dress is very elegant and feminine, with a floral pattern that adds a touch of freshness to the outfit. The fabric of the dress seems to be lightweight and comfortable, perfect for a day at the beach. The girl is also carrying a black bag with gold details, which complements the color of the dress and adds a touch of sophistication to the overall look.",
+        "label": 0
+    },
+    {
+        "image": "69.png",
+        "caption": "Sure, here are some descriptions of the clothes in this image in a social media style tone:\n\n1. \"I'm loving this cute white top with the adorable cherry print! Perfect for a warm summer day.\"\n\n2. \"These wide-leg jeans are so comfortable and stylish. I love how they make my legs look so long!\"\n\n3. \"My new favorite summer accessory - this adorable floral handbag! It adds the perfect touch of color to any outfit.\"\n\n4. \"These red shoes are the perfect pop of color to my all-white outfit. I love how they match so well with my red lipstick!\"\n\n5. \"I'm feeling so fresh in this all-white outfit, paired with some cute accessories like this adorable cherry top and these wide-leg jeans.\"\n\n6. \"I love how these jeans make me feel so comfortable and stylish at the same time. They're the perfect addition to any summer outfit.\"\n\n7. \"I'm feeling so chic in this all-white outfit, paired with some cute accessories like this adorable floral handbag and these red shoes.\"\n\n8. \"I love how this outfit is so comfortable and stylish at the same time. The wide-leg jeans are perfect for a casual summer day out with friends.\"",
+        "label": 0
+    },
+    {
+        "image": "70.png",
+        "caption": "In the image, we can see a young lady dressed in a beautiful and elegant outfit. She is wearing a white dress with black spots, featuring a cold shoulder design and a ruffled hem. The dress is very suitable for her, highlighting her unique beauty and charm. Her outfit is very popular among young people, especially among those who love to dress up in a casual and fashionable manner.",
+        "label": 1
+    },
+    {
+        "image": "71.png",
+        "caption": "This is a beautiful yellow dress, perfect for summer! The fabric looks so comfortable and the print is so cute. I love how the dress is ankle-length, it's so elegant. And look at that cute blue flower on the collar, it adds such a nice touch. The model looks so happy and confident in this outfit, it must be a really great dress. I'm in love! #summerdress #yellowdress #cutedress #OOTD #fashionista",
+        "label": 0
+    },
+    {
+        "image": "72.png",
+        "caption": "In the image, the girl is wearing a beautiful white dress with a floral pattern, accompanied by a black cardigan. The dress has a small white polka dot pattern and a V-neckline, adding a sense of elegance and cuteness. As for the bag, it's a simple and stylish handbag, suitable for the girl's outfit.",
+        "label": 0
+    },
+    {
+        "image": "73.png",
+        "caption": "The girl in the image is wearing a short gray skirt that is slightly transparent, revealing a little skin. She also has on a brown shirt with short sleeves and a striped pattern. The shirt has a unique collar design, with the girl wearing it in a way that one of the collar's points is pointing towards the camera. The outfit is finished off with a pair of brown shoes and gray socks.",
+        "label": 0
+    },
+    {
+        "image": "74.png",
+        "caption": "In the image, the girl is wearing a white round-neck short-sleeved T-shirt, with black lettrings on it that read \"FRN\". She also wears wide leg jeans in a blue-green color, and is carrying a brown backpack with a bear design.",
+        "label": 0
+    },
+    {
+        "image": "75.png",
+        "caption": "The girl in the image is wearing a black skirt with a white lace hem, and white socks. She also has a pair of white shoes with thick soles.",
+        "label": 0
+    },
+    {
+        "image": "76.png",
+        "caption": "The girl in the image is wearing a white skirt and a blue shirt. The shirt has a striped pattern and is rather large, with a collar and long sleeves. The skirt is white and has a frilled hem.",
+        "label": 0
+    },
+    {
+        "image": "77.png",
+        "caption": "Sure, here are some descriptions of the clothes in this image in a social media style tone:\n\n1. \"Omg, I love this yellow vest! It's so cute and perfect for summer. The wide-leg pants are also a great match. I need this whole outfit in my closet!\"\n\n2. \"This oversized vest is so trendy! Paired with those printed bell-bottoms, it's a match made in fashion heaven. And that handbag is the perfect accessory to complete the look.\"\n\n3. \"I'm in love with this beach look! The vest is so comfortable and the wide-leg pants are so stylish. And that bag is just the cherry on top. I need this whole outfit in my wardrobe!\"\n\n4. \"This outfit is so cute and perfect for a day at the beach! The vest is so comfortable and the wide-leg pants are so stylish. And that bag is just the icing on the cake. I need this whole outfit in my closet!\"\n\n5. \"This outfit is so cute and perfect for summer! The vest is so comfortable and the wide-leg pants are so stylish. And that bag is just the icing on the cake. I need this whole outfit in my wardrobe!\"",
+        "label": 0
+    },
+    {
+        "image": "78.png",
+        "caption": "In this image, we can see a young woman standing in front of a market, holding a drink and a bag. She is wearing a blue floral shirt, which is V-neck and has short sleeves. The shirt is a loose fit, and the fabric appears to be chiffon. The woman is also wearing high-waisted blue jeans, which are wide-legged and have a light blue color. She is wearing a pair of white sandals as well. The overall style of the outfit is very suitable for a casual summer day, with the cool blue color adding a refreshing touch.",
+        "label": 1
+    },
+    {
+        "image": "79.png",
+        "caption": "This image features a beautiful young girl showcasing her amazing fashion sense. She is wearing a stunning red crop top that accentuates her tummy and shows off her slim midsection. The top is paired with a pair of high-waisted denim wide-leg pants that add to the overall elegance of the outfit. \n\nThe girl is also carrying a stylish brown handbag that complements her look. She is wearing a multicolored floral print shirt that adds a pop of color to the outfit. The girl's accessories, including the belt and the sandals, perfectly match the overall theme of the outfit. \n\nOverall, this image is a perfect representation of\u65f6\u5c1a\u4e0e\u4f18\u96c5\u7684\u5b8c\u7f8e\u7ed3\u5408\u3002",
+        "label": 0
+    },
+    {
+        "image": "80.png",
+        "caption": "In the image, the girl is wearing a black loose-fitting short-sleeved T-shirt and a white pleated skirt. The black T-shirt has a round collar and is slightly oversized, creating a casual and comfortable feeling. The white pleated skirt is tight-fitting and shows off the girl's legs, giving her a slender appearance. The girl is also wearing white socks and black shoes, further enhancing her stylish look. She is also carrying a brown handbag, which matches her outfit perfectly.",
+        "label": 1
+    },
+    {
+        "image": "81.png",
+        "caption": "The woman in the image is wearing a pair of high-waisted green jeans, a long-sleeved green shirt, and white sneakers. Her outfit gives off a simple and stylish vibe.",
+        "label": 0
+    },
+    {
+        "image": "82.png",
+        "caption": "The girl in the image is wearing a short skirt and a white shirt, with her arms crossed. She also has a handbag on her shoulder. The outfit is a mix of different styles, with elements of schoolgirl fashion and casual streetwear. The short skirt and Doc Marten boots give off a rebellious and edgy vibe, while the white shirt and handbag add a touch of sophistication. Overall, the clothes in this image are stylish and unique, reflecting the individuality and confidence of the girl wearing them.",
+        "label": 0
+    },
+    {
+        "image": "83.png",
+        "caption": "The girl in the image is wearing a cute and casual outfit. She has on a short white skirt with a ruffled hem, paired with a matching short-sleeved top. To complete the look, she is wearing a pair of large white sneakers with thick soles. Her outfit is perfect for a day out with friends or a fun summer activity.",
+        "label": 1
+    },
+    {
+        "image": "84.png",
+        "caption": "There is a girl in the image who is wearing a gray dress and a black skirt. She also has on white leg warmers and is wearing black shoes.",
+        "label": 1
+    },
+    {
+        "image": "85.png",
+        "caption": "In this image, a woman is wearing a stylish dress that features a mix of animal print and neutral tones. The dress is a floor-length, sleeveless design that likely flows gracefully when the woman moves. She is also wearing a cap that matches the animal print of her dress, creating a cohesive and\u65f6\u5c1a\u7684 look. Additionally, she is wearing white sneakers that add a casual and comfortable element to her outfit. The overall effect is a fashionable and trendy appearance that is perfect for a night out or a special occasion.",
+        "label": 1
+    },
+    {
+        "image": "86.png",
+        "caption": "The woman in the image is wearing a bright yellow crop top and white wide-legged pants. The crop top has a scoop neckline, which shows off her collarbones and displays her\u81ea\u4fe1. The white pants are loose and comfortable, creating a carefree and easygoing look. The combination of these two colors makes her look taller and more slender.",
+        "label": 1
+    },
+    {
+        "image": "87.png",
+        "caption": "In the image, the girl is wearing a gray shirt with short sleeves, accompanied by a black and gray two-color skirt. She also has on black shoes and a gray hat. In terms of accessories, she carries a black bag with a silver chain and wears white socks.",
+        "label": 1
+    },
+    {
+        "image": "88.png",
+        "caption": "The girl in the image is wearing a unique and eye-catching outfit. She has on a brown two-piece outfit that looks very stylish. The top is a see-through material with different shades of brown, and it's tied at the chest, showing off her beautiful chest and part of her shoulders. The pants are also brown, with a zipper design on the side, creating a sense of fashion. She also wears a pair of black boots that match her outfit perfectly. This outfit is perfect for someone who wants to make a statement and stand out in a crowd.",
+        "label": 0
+    },
+    {
+        "image": "89.png",
+        "caption": "Sure, here are some descriptions of the clothes in this image in a social media style tone:\n\n1. \"Swooning over this neutral knit sweater that's so cozy and cute! Perfect for a chilly day. #fallfashion #cozyootd\"\n2. \"Dreaming of spring with this adorable floral skirt! Paired with a vintage-inspired belt and chunky sweater, this outfit is so on point. #ootd #vintageskirt\"\n3. \"Feeling like a total fashionista in this all-match outfit! The floral skirt and knit sweater are the perfect combination. #ootd #fallstyle\"\n4. \"Going for a classic look with this neutral knit sweater and floral skirt. Paired with a statement belt and loafers, this outfit is so versatile. #fallfashion #ootd\"\n5. \"Stepping up my outfit game with this neutral knit sweater and floral skirt. Paired with a trendy belt and loafers, this look is so on point. #ootd #fallstyle\"",
+        "label": 0
+    },
+    {
+        "image": "90.png",
+        "caption": "In the image, the girl is wearing a long, pastel yellow dress with a floral pattern on it. The dress has a square collar and short sleeves, making it a perfect choice for a summer outfit. The girl is also carrying a yellow bag that matches her dress perfectly. She is wearing brown shoes that complement the dress and add a touch of elegance to her overall look. Her long, dark hair is styled in loose waves, and she is smiling brightly, giving off a cheerful and confident vibe.",
+        "label": 0
+    },
+    {
+        "image": "91.png",
+        "caption": "In the image, there's a young woman with long black hair standing on the side of the road. She's wearing a beautiful white tiered dress that looks like it's made from layers of soft cotton fabric. The dress has a flowy silhouette that's perfect for summer. \n\nShe's also carrying a stylish bag that matches her dress and shoes. The bag has a floral pattern that adds a touch of freshness to her look. As for her shoes, they're black with thick soles, providing both comfort and style. Overall, her outfit is perfect for a day out in the sun.",
+        "label": 1
+    },
+    {
+        "image": "92.png",
+        "caption": "In the image, the girl is wearing a white top with black lettering on it. The top is short-sleeved and of a casual style. She also wears a navy blue skirt, which is a bit longer than typical skirts, reaching her ankles. As for accessories, she has a white bag and white sneakers to complete the outfit. This outfit is suitable for a casual outdoor activity, such as a walk in the park.",
+        "label": 0
+    },
+    {
+        "image": "93.png",
+        "caption": "Top: Cute army green long sleeve shirt Skirt: High waisted brown suede skirt with a drawstring Booties: Brown chunky leather boots with silver buckles and brown laces Jewelry: Black necklace with a silver pendant and a silver ring on the middle finger",
+        "label": 0
+    },
+    {
+        "image": "94.png",
+        "caption": "The woman in the image is wearing a white sleeveless top, paired with black pants. The top is simple and elegant, with a scoop neck and a tight design, highlighting the woman's waistline and chest. The pants are wide-legged, creating a casual and comfortable feel. The overall outfit is very suitable for a summer outing.",
+        "label": 0
+    },
+    {
+        "image": "95.png",
+        "caption": "In the image, the girl is wearing a deep blue top with short sleeves and a V-neckline, paired with high-waisted blue jeans with belt loops and pockets. She is also carrying a black and red backpack. The outfit is simple yet stylish, perfect for a casual day out.",
+        "label": 0
+    },
+    {
+        "image": "96.png",
+        "caption": "In the image, we can see a short black skirt, a grey T-shirt, black shoes with white soles, and a black bag with a silver ring decoration. The outfit is very simple and elegant, and it's perfect for a casual day out. The black skirt is fitted, showing off the wearer's legs and adding a touch of sophistication to the look. The grey T-shirt is simple yet stylish, providing a versatile base for any outfit. The black shoes with white soles are both comfortable and fashionable, adding a pop of color to the ensemble. And the black bag with silver decorations is both practical and stylish, completing the overall look.",
+        "label": 0
+    },
+    {
+        "image": "97.png",
+        "caption": "In the image, the girl is wearing a cute black and white outfit. The top she's wearing is a black t-shirt with a fun print on it, and the skirt is a short black skirt with a white floral pattern. She's also wearing a pair of white sneakers and black socks. The outfit is perfect for a casual day out with friends.",
+        "label": 0
+    },
+    {
+        "image": "98.png",
+        "caption": "In the image, the girl is wearing a short khaki skirt, which shows off her long legs. She also has on a white top, and her outfit is complemented by a black handbag with a silver chain. As for shoes, she is wearing brown leather loafers with white socks. This outfit is perfect for a casual day out with friends.",
+        "label": 1
+    },
+    {
+        "image": "99.png",
+        "caption": "In the image, the girl is wearing a black dress with small white flowers, it seems to be a casual dress. She also wears a white short-sleeved T-shirt under it, and white sneakers with thick soles. She has a bag with gold chain straps.",
+        "label": 0
+    },
+    {
+        "image": "100.png",
+        "caption": "In the image, the girl is wearing a black dress with a plaid shirt over it. The dress is short and shows off her legs. She is also wearing white sneakers and has a backpack on her back. The overall style is casual and comfortable, perfect for a day out with friends.",
+        "label": 0
+    },
+    {
+        "image": "101.png",
+        "caption": "In the image, we can see a female student dressed in a gray skirt and gray long-sleeved top. She is also wearing a gray tie, which matches her gray skirt very well. The long-sleeved top has a collar and is slightly gathered at the front. The gray color gives a sense of elegance and sophistication. As for the tie, it is striped and very visually appealing, adding a touch of cuteness to the outfit. The student also has a black bag with silver hardware, which complements the outfit perfectly. Overall, the clothes in this image are well-coordinated and create a harmonious look.",
+        "label": 0
+    },
+    {
+        "image": "102.png",
+        "caption": "The girl in the photo is very cute, with a very fresh and beautiful appearance. She is wearing a black short-sleeved shirt and light blue denim shorts, both of which are very stylish. Her shirt is very tight and shows her body very well, and the sleeves are short, revealing a little of her white arms. The denim shorts are high-waisted and wide-legged, very trendy. She is also wearing a black belt with a large buckle, highlighting her waist. She has long red hair, is smiling slightly, and has a very pure and beautiful appearance.",
+        "label": 1
+    },
+    {
+        "image": "103.png",
+        "caption": "In the image, the girl is wearing a white inner garment and a black outer garment. She also wears grey trousers and white shoes. On her left hand, she carries a white bag with yellow stripes. This outfit is simple, elegant, and very comfortable to wear. The white inner garment and outer garment provide a clean and bright appearance, while the grey trousers add a sense of stability and maturity. The white shoes are not only elegant but also very comfortable to wear, suitable for a variety of occasions. The white bag with yellow stripes is not only practical, but also adds a touch of brightness to the whole outfit.",
+        "label": 1
+    },
+    {
+        "image": "104.png",
+        "caption": "The girl in the image is wearing a very cute summer dress. It's a long black dress with a white floral print on it, making it look very fresh and lovely. I think this dress would be perfect for a summer picnic or a casual outing with friends. The girl's white sneakers and black bag complement the dress well, creating a simple but stylish look.",
+        "label": 0
+    },
+    {
+        "image": "105.png",
+        "caption": "In the image, the girl is wearing a black V-neck long-sleeved top, paired with light blue jeans with a loose fit. The long-sleeved top is made of a black, thin, and slightly stretchy fabric, while the jeans have a slightly worn-out look and a comfortable loose fit. The girl is also carrying a black square bag with a strap, which is placed on one shoulder.",
+        "label": 0
+    },
+    {
+        "image": "106.png",
+        "caption": "In the image, the girl is wearing a white top, a beige cardigan, a beige skirt, and white shoes. The outfit is very suitable for her, she looks very cute in it, and it's very suitable for her.",
+        "label": 0
+    },
+    {
+        "image": "107.png",
+        "caption": "The girl in the photo is wearing a white crop top, paired with a loose-fitting pair of jeans in a light blue-green color. The jeans are slightly baggy, creating a casual and comfortable look. She also has a black shoulder bag with a thin strap, which matches her outfit perfectly. As for footwear, she's wearing white sneakers and white socks, completing the clean and simple style.",
+        "label": 1
+    },
+    {
+        "image": "108.png",
+        "caption": "The young woman in the image is wearing a white crop top and blue flared jeans. The white top is a short-sleeved design, showing off the woman's taut stomach and highlighting her slim figure. The blue jeans are bell-bottomed style, featuring a high waist and a wide leg, giving off a vintage vibe. The overall outfit is simple yet stylish, perfect for a casual day out.",
+        "label": 0
+    },
+    {
+        "image": "109.png",
+        "caption": "In the image, there's a girl with long red hair standing on the side of the road. She's wearing a beautiful summer dress with a floral print, flared jeans, and white sneakers. The dress is a loose-fitting A-line silhouette, with a high waist and elbow-length sleeves. The floral print features black flowers on a white background, creating a vintage feel. The girl is also carrying a tan bag with a long strap, which complements the overall outfit perfectly. This look is perfect for a casual summer day out, with a touch of elegance and style.",
+        "label": 0
+    },
+    {
+        "image": "110.png",
+        "caption": "In the image, the girl is wearing a unique and stylish outfit. She has on a white shirt with a black cat on it. She also has on a black skirt that is very cute. Lastly, she has on a pair of converse that are very popular among young people. This outfit is perfect for going out with friends or just running errands.",
+        "label": 0
+    },
+    {
+        "image": "111.png",
+        "caption": "This image features a beautiful young woman with bright red hair, standing on the side of a road. She is wearing a stunning black floral dress, which accentuates her figure in the most flattering way. The dress has a unique design, with thin shoulder straps that show off her shoulders. The fabric of the dress is a dark floral print, which adds a touch of elegance and style to her overall look. The dress is paired with white sneakers and a small black handbag, completing the casual yet fashionable ensemble. This outfit is perfect for a summer day out or a casual event, and it's sure to turn heads wherever she goes.",
+        "label": 0
+    },
+    {
+        "image": "112.png",
+        "caption": "This is a very simple and stylish outfit, with a black high-neck short-sleeve top and a gray wide-leg pants. The black top is very simple, with no extra patterns or decorations, just a clean lines and cut that is very versatile. The gray wide-leg pants are also very simple, with a wide leg that is very comfortable and easy to wear, and a simple waistband design that is very in-tune with the current fashion trends. This outfit is very suitable for casual outings, such as shopping or meeting up with friends.",
+        "label": 1
+    },
+    {
+        "image": "113.png",
+        "caption": "The girl in the image is wearing a long white skirt, which is\u65e2\u9ad8\u96c5\u53c8\u5927\u65b9\u3002 She also has on a black top, which adds a sense of sophistication to her overall look. In addition, she carries a white bag, which complements her outfit perfectly. Overall, her clothes give off a sense of elegance and style.",
+        "label": 0
+    },
+    {
+        "image": "114.png",
+        "caption": "Sure, here are some descriptions of the clothes in this image in a social media style tone:\n\n1. \"I'm loving this olive green top paired with my acid wash flare jeans. Such a cute summer outfit!\"\n2. \"Who else is feeling the boho vibe with this brown top and olive green flare jeans? I'm so ready for the weekend!\"\n3. \"I'm all about comfortable and chic, and this outfit definitely fits the bill. The olive green top and flare jeans are a must-have for any fashionista.\"\n4. \"I'm a big fan of mixing and matching colors, and this olive green top with my acid wash flare jeans is a perfect example. Such a unique and trendy look!\"\n5. \"I'm always on the hunt for the perfect summer outfit, and this olive green top and flare jeans definitely hit the mark. Can't wait to wear this to my next concert or festival!\"",
+        "label": 1
+    },
+    {
+        "image": "115.png",
+        "caption": "The young woman in the image is wearing a sky blue short-sleeved T-shirt, gray wide-legged pants, and white sneakers. Her outfit is simple and comfortable, with a clean and bright color scheme. The choice of gray for the pants adds a touch of elegance, while the sky blue T-shirt provides a pop of color to the outfit. The white sneakers not only add a touch of freshness to the overall look, but also make the whole outfit look more casual and easygoing.",
+        "label": 1
+    },
+    {
+        "image": "116.png",
+        "caption": "In the image, the girl is wearing a black hoodie and a black skirt. The hoodie has a white logo on the front, and the girl is wearing white Adidas sports shoes.",
+        "label": 0
+    },
+    {
+        "image": "117.png",
+        "caption": "In the image, we can see a beautiful young lady, with long, dark hair, wearing a beautiful dress and high-quality leather boots. The dress is of a light brown color, with a V-neckline and thin straps, giving it a very elegant and graceful appearance. As for the boots, they are of a matching brown color, with thick soles and decorative buckles, making them not only fashionable but also very practical.",
+        "label": 0
+    },
+    {
+        "image": "118.png",
+        "caption": "The model in the image is wearing a beige vest + wide-leg pants + white sports shoes outfit. The vest is short and tight-fitting, showing her slender waist and chest. The wide-leg pants are also beige, very comfortable looking. As for the shoes, they are white sports shoes, simple and easy to match.",
+        "label": 0
+    },
+    {
+        "image": "119.png",
+        "caption": "The girl in the image is wearing a very cute purple dress, it seems to be made of very soft and comfortable material. The dress has a very nice design, with a small square neckline and two small holes in the back, showing a little bit of the girl's shoulders and the skin of her back. The dress is very well-fitting, with a few thin straps holding up the dress, showing the girl's arms very well. The skirt part of the dress is quite flared out, making the girl look very\u8f7b\u76c8\u7075\u6d3b.",
+        "label": 0
+    },
+    {
+        "image": "120.png",
+        "caption": "The girl in the image is wearing a sky blue vest, a deep green skirt, and white sports shoes. The deep green skirt has a high waist and is full of holes, giving a casual and comfortable feeling. The sky blue vest is simple and stylish, and the white sports shoes are both comfortable and durable. This outfit is perfect for a casual outing.",
+        "label": 0
+    },
+    {
+        "image": "121.png",
+        "caption": "In the image, the girl is wearing a pair of light green wide-legged jeans, which are currently very popular among young people. The shirt she wears is a simple white printed short-sleeved shirt, also very common among young people. As a accessory, she carries a black bag with a silver chain, and wears white sneakers. This outfit is very suitable for young people who like simple styles.",
+        "label": 0
+    },
+    {
+        "image": "122.png",
+        "caption": "This image features a beautiful young woman standing on the sidewalk, dressed in a stylish outfit. She is wearing a black and white checkered or houndstooth top, which is slightly open and shows a portion of her black bra. The top appears to be made of a thin, see-through material. She pairs this top with a black skirt, also featuring a checkered pattern. The skirt is quite long and almost reaches the floor. The overall outfit is finished off with a pair of sneakers, adding a casual and comfortable touch. The woman also carries a black bag, which complements the outfit's color scheme.",
+        "label": 0
+    },
+    {
+        "image": "123.png",
+        "caption": "This image features a young woman with long dark hair, wearing a navy blue short-sleeved shirt and a pair of loose-fitting jeans. The shirt has a V-neckline and is buttoned at the front. The jeans are a light blue color and appear to be slightly ripped. The woman is also wearing white sneakers and has a backpack on her back. The overall style appears to be casual and comfortable, perfect for a day out.",
+        "label": 0
+    },
+    {
+        "image": "124.png",
+        "caption": "The person in the image is wearing a pair of dark grey trousers, which are wide legged and flowy. They also have a black belt on, with a silver buckle. In the top, they are wearing a grey short-sleeved top, which is slightly transparent and shows a little skin. The shirt is tucked into the trousers. They also have a black bag with silver handles, and are carrying a white Apple logo on the side. The person is wearing grey shoes, and is standing on a grey sidewalk. Behind them are green bushes.",
+        "label": 1
+    },
+    {
+        "image": "125.png",
+        "caption": "The girl in the photo is very cute, with long black hair. She is wearing a black skirt that looks very good, and her shirt is a very nice beige, and the shirt she wears outside is also very nice. Her overall dressing is very fresh and young, especially suitable for students.",
+        "label": 0
+    },
+    {
+        "image": "126.png",
+        "caption": "The girl in the photo is very cute, with long black hair. She is wearing a light blue top, a grey skirt, white tennis shoes, and a light yellow bag. Her outfit is very simple and elegant, and it's very suitable for her.",
+        "label": 1
+    },
+    {
+        "image": "127.png",
+        "caption": "The woman in the image is wearing a pair of grey pants, a white top, and carrying a black handbag. The pants are wide legged and appear to be made of a crepe or silk material. The top is a short-sleeved, crewneck style in a light grey color. The outfit looks comfortable and stylish, perfect for a casual day out or a weekend brunch.",
+        "label": 1
+    },
+    {
+        "image": "128.png",
+        "caption": "In the image, the girl is dressed in a gray outfit, with gray shorts and a gray top. She also wears a gray cardigan and high socks. The outfit is completed with gray shoes and a black bag. The girl's outfit is simple and elegant, with a strong gray theme. The choice of color creates a sense of unity and harmony, and the high socks add a touch of freshness to the overall outfit. This outfit is suitable for various occasions, such as school, work, or casual outings.",
+        "label": 0
+    },
+    {
+        "image": "129.png",
+        "caption": "This is a white ruffled blouse, paired with a blue denim skirt and brown boots. The outfit is completed with a small brown bag and a thin belt. The blouse has a large collar and is slightly transparent, giving a very cute and fresh feeling. The denim skirt is designed with a wide belt, highlighting the wearer's waist. The boots are high and rough, adding a tough and cool aura. Overall, this is a very suitable outfit for outdoor activities.",
+        "label": 0
+    },
+    {
+        "image": "130.png",
+        "caption": "This is a very elegant and stylish black off-shoulder crop top, with a very smooth fabric that drapes very nicely. It is tight-fitting and shows off the wearer's body very well. Together with the silver gray long skirt, it creates an very fashionable and eye-catching look. The skirt is also very high-quality, with a very elegant silver belt and a side slit that shows off the wearer's legs. The overall style is very trendy and suitable for various occasions, from casual to formal events.",
+        "label": 0
+    },
+    {
+        "image": "131.png",
+        "caption": "In the image, there's a person taking a photo in front of a white wall. They are wearing a black, off-the-shoulder dress with a gold chain belt, black platform shoes, and a black handbag. The dress has a gold chain belt and a thigh-high slit, showing a little bit of skin. The person is also wearing a black hat. This outfit is perfect for a night out or a casual, chic look.",
+        "label": 1
+    },
+    {
+        "image": "132.png",
+        "caption": "This is a classic black dress, perfect for a night out or a special occasion. The ruffled sleeves add a touch of femininity to the otherwise elegant silhouette. The asymmetrical hemline gives it a modern and edgy twist. Paired with a small black bag and black boots, this dress is a total showstopper. I love how it flatters my figure and makes me feel like a true fashionista. Definitely a must-have for any fashion-conscious individual.",
+        "label": 0
+    },
+    {
+        "image": "133.png",
+        "caption": "This is a super cute summer outfit, perfect for a hot day! The black high-waisted denim skirt is so trendy and pairs perfectly with the checkered crop top. The black belt adds a nice pop of color and accentuates the waistline, making the outfit even more flattering. And those black boots complete the look, giving it a chic and stylish vibe. Love it!",
+        "label": 0
+    },
+    {
+        "image": "134.png",
+        "caption": "The girl in the picture is very elegant and delicate, wearing a white dress that shows her body very well. The fabric of the dress looks very comfortable, with a hint of retro style. Her dress has a deep V-neckline, which shows off her beautiful collarbone and chest. The sleeves are sleeveless, showing her arm beautifully. The waist is slightly gathered, highlighting her slender waist. The dress is full-length, covering her legs, showing her long and elegant legs. The fabric of the dress is very soft and smooth, with a slight sheen. The dress is of high quality, with no wrinkles or defects. Overall, this dress is a very good choice for a summer outfit.",
+        "label": 1
+    },
+    {
+        "image": "135.png",
+        "caption": "In the image, there's a girl taking a mirror selfie wearing a beautiful black and white dress. The dress has a unique print featuring black and white flowers, giving it a vintage feel. The girl is also wearing a black handbag that matches her dress and is holding a phone to take the selfie. The overall outfit is stylish and perfect for a summer day out.",
+        "label": 1
+    },
+    {
+        "image": "136.png",
+        "caption": "This image features a dark blue dress with a white collar, likely a vintage-style denim dress. The dress is paired with a black belt and black socks, and the wearer is wearing black chunky-soled shoes. In the background, there's a wooden floor and a white wall. This outfit is perfect for a casual yet fashionable look.",
+        "label": 1
+    },
+    {
+        "image": "137.png",
+        "caption": "Sure, here are some descriptions of the clothes in this image in a social media style tone:\n\n1. \"I'm loving this flowy floral blouse paired with a sleek black skirt. The neutral color palette is so chic!\"\n2. \"Just added this adorable crossbody bag to my outfit, perfect for a night out with the girls. #ootd #fashionblogger\"\n3. \"Wearing my new combat boots with this outfit, I feel like a total badass. #streetstyle #grunge\"\n4. \"Can't go wrong with a classic black skirt and a floral blouse. This is such a versatile outfit, I'll be wearing it all summer long.\"\n5. \"Just finished my makeup and I'm feeling so confident in this outfit. #makeupblogger #ootd\"",
+        "label": 0
+    },
+    {
+        "image": "138.png",
+        "caption": "In the image, there is a girl taking a photo in front of a white wall. She is wearing a black dress with a blue chest pad and a V-neckline. The dress is of a simple design and appears to be comfortable to wear. The girl is also wearing a black bag with a strap, and her black shoes have a unique leopard\u7eb9 design. Overall, the clothes in the image are stylish and suitable for casual wear.",
+        "label": 0
+    },
+    {
+        "image": "139.png",
+        "caption": "Top: Cute white striped short sleeve shirt, looks great with a pair of black shorts and some cute socks. \n\nSkirt: Love this adorable black skirt, it's so versatile and can be dressed up or down. \n\nShoes: These chunky black shoes are so in right now, they really complete the outfit. \n\nBag: A classic black purse that can match with anything. \n\nOverall, this outfit is perfect for a casual day out with friends or a cute date.",
+        "label": 0
+    },
+    {
+        "image": "140.png",
+        "caption": "This is a classic black t-shirt, paired with a stylish khaki skirt. The outfit is finished with a small black bag, which is perfect for carrying essentials. The boots are in a dark green color, adding a touch of personality to the whole look. This outfit is both fashionable and versatile, suitable for a variety of occasions.",
+        "label": 0
+    },
+    {
+        "image": "141.png",
+        "caption": "This is a beautiful and elegant outfit, perfect for a summer day. The white top, paired with the short green skirt, creates a stylish and trendy look. The neutral color palette of the outfit makes it versatile and easy to accessorize. The white sneakers add a fresh and casual touch to the outfit, while the small white bag is the perfect accessory to complete the look. This is a must-try outfit for anyone who wants to look fashionable and feel comfortable in the heat.",
+        "label": 1
+    },
+    {
+        "image": "142.png",
+        "caption": "In the image, the girl is wearing a beautiful two-piece dress that is a huge hit on social media. The top part of the dress is beige and has a unique design with floral patterns. The fabric of the dress is transparent and very delicate. As for the skirt, it's a classic A-line design with a floral pattern that matches perfectly with the top. The girl is wearing a pair of black shoes with thick soles, adding a sense of fashion and individuality. Overall, this two-piece dress is a must-have for any fashion-conscious individual.",
+        "label": 0
+    },
+    {
+        "image": "143.png",
+        "caption": "The woman in the image is wearing a pair of high-waisted white pants, a grey crop top, and a black square neck shoulder bag. The white pants have two large pockets on the sides, and the fabric looks like linen. The grey crop top is very simple, with no sleeves and a low-cut neckline. The woman is also wearing black platform shoes. This outfit is very suitable for the current summer season, with a simple and casual style, suitable for various occasions such as street shooting, shopping, and so on.",
+        "label": 1
+    },
+    {
+        "image": "144.png",
+        "caption": "Sure, here are some descriptions of the clothes in this image in a social media style tone:\n\n1. \"Omg, I'm in love with this adorable red and white checkered dress! It's so comfy and perfect for a summer day out. #ootd #fashionblogger #summerstyle\"\n\n2. \"Who else is loving this vintage-inspired dress? It's so cute and perfect for a casual picnic or a day at the beach. #vintagesyle #summerdress\"\n\n3. \"I'm so excited to share this outfit with you all! This adorable red and white checkered dress is paired with my favorite white sneakers and a neutral bag. #outfitinspo #ootd\"\n\n4. \"I'm feeling so fresh in this summer dress! The red and white checkered pattern is so cute and perfect for a day out with friends. #summeroutfit #ootd\"\n\n5. \"I'm giving you all the fashion vibes with this adorable dress! It's so comfortable and perfect for a casual day out. #fashionblogger #ootd\"",
+        "label": 1
+    },
+    {
+        "image": "145.png",
+        "caption": "Hey y'all, I'm lovin' this super cute red plaid dress! The puff sleeves are so on trend and the fit is so flattering. I paired it with this super cute white bag and some white sneakers for a super summer look. I can't wait to wear this to a picnic or a beach day! #redplaiddress #puffshoulders #whitebag #summeroutfit #flatteringfit",
+        "label": 1
+    },
+    {
+        "image": "146.png",
+        "caption": "In the image, we can see a dressed-up person wearing a long white dress. The outfit looks very stylish and elegant, with a hint of casualness. The person is also carrying a stylish bag that matches perfectly with the dress. The overall outfit gives off a very put-together and well-thought-out appearance.",
+        "label": 1
+    },
+    {
+        "image": "147.png",
+        "caption": "This image features a beautiful young woman taking a mirror selfie in her home. She is wearing a trendy white crop top, paired with a flowy blue skirt that reaches her ankles. The top has a trendy off-shoulder design, and the woman is holding a stylish white purse that matches her outfit. She is also wearing silver heels that complement the overall look. This outfit is perfect for a casual yet fashionable day out with friends.",
+        "label": 1
+    },
+    {
+        "image": "148.png",
+        "caption": "Sure, here are some descriptions of the clothes in this image in a social media style tone:\n\n1. \"I'm loving this cute white blouse with a fitted denim skirt! The perfect summer outfit.\"\n2. \"My new favorite summer look: a flowy white top and a fitted denim skirt. So comfy and stylish!\"\n3. \"I paired my favorite denim skirt with a simple white blouse and some white sneakers for a classic summer outfit.\"\n4. \"I'm so excited to wear this adorable white blouse with a fitted denim skirt. It's the perfect combination for a summer day out.\"\n5. \"I finished off this outfit with a cute crossbody bag and some white sneakers for a fun and flirty summer look.\"",
+        "label": 1
+    },
+    {
+        "image": "149.png",
+        "caption": "This is a classic black and white checkered dress, it is very versatile and can be worn to various occasions. The design is very elegant, with a simple and\u5927\u65b9\u7684\u98ce\u683c. The checkered pattern is very eye-catching, making it easier to show one's personality. The fabric of the dress is very comfortable, it can be worn in summer, and it can also be worn in autumn.",
+        "label": 0
+    },
+    {
+        "image": "150.png",
+        "caption": "Sure, here are some descriptions of the clothes in this image in a social media style tone:\n\n1. \"Omg, I love this neutral outfit! The long beige skirt is so flowy and perfect for summer. And that little white purse is the cutest accent.\"\n\n2. \"Yasss, this whole look is so chic and effortless. The linen vest adds a cool factor to the outfit and pairs perfectly with the wide-leg khaki pants. And those white sneakers are the final touch.\"\n\n3. \"I'm in love with this all-neutral ensemble! The wide-leg khaki pants are so comfortable and the linen vest adds a touch of sophistication. And that little white purse is the perfect accessory to finish the look.\"\n\n4. \"This outfit is so cute and perfect for a casual summer day. The long beige skirt is so comfortable and the linen vest adds a touch of elegance. And those white sneakers are the perfect complement to the look.\"\n\n5. \"I'm obsessed with this neutral outfit! The long beige skirt is so comfortable and perfect for a casual summer day. And that little white purse is the perfect accessory to finish the look.\"",
+        "label": 1
+    },
+    {
+        "image": "151.png",
+        "caption": "This is a light blue long dress, it looks very comfortable and cool, especially suitable for summer wear.",
+        "label": 0
+    },
+    {
+        "image": "152.png",
+        "caption": "In the image, we can see a fashionista wearing a beige, cold-shoulder blouse with ruffles on the sleeves. The outfit is completed with a denim skirt that accentuates the wearer's figure. The individual is also carrying a black handbag with a chain strap. The style is both trendy and elegant, perfect for a casual day out or a casual event. The choice of clothing shows the individual's sense of style and ability to mix and match different pieces to create a unique and fashionable look.",
+        "label": 0
+    },
+    {
+        "image": "153.png",
+        "caption": "In the image, we can see a beautiful young lady with very long legs, she is dressed in a very stylish manner. She is wearing a grey hoodie, black shorts, and black leather high boots. The hoodie has a zipper up the front and is slightly open, revealing a small amount of black lingerie. The shorts are very short and tight, highlighting her slender legs. The high boots are very tall and reach above her knee, adding an extra sense of fashion. Her hair is long and black, and she is wearing a bright red lipstick, making her look even more attractive.",
+        "label": 1
+    },
+    {
+        "image": "154.png",
+        "caption": "The girl in the image is wearing a pair of flare jeans and an off-white sweater. The jeans are a deep blue-green color and have a slim fit in the lower part and a flared leg at the ankle. The off-white sweater is knitted and has a square neck and long sleeves. The girl is also carrying a beige bag with a chain strap and wearing white platform sneakers.",
+        "label": 0
+    },
+    {
+        "image": "155.png",
+        "caption": "The girl in the image is wearing a very cute and stylish outfit. She has on a very short white crop top, which shows off her toned tummy. She also has on a very short denim skirt that accentuates her long legs. She is carrying a small black bag with a strap that matches her shoes. Her socks are white, and her hair is long and black. This outfit is perfect for a warm summer day, and it's very trendy.",
+        "label": 0
+    },
+    {
+        "image": "156.png",
+        "caption": "In the image, we can see a beautiful young lady with perfect proportions, dressed in a stylish outfit. She is wearing a gray top that seems to be an asymmetrical turtleneck, skintight black stockings, and knee-high black boots. The outfit is both fashionable and elegant, showcasing the lady's impeccable taste in clothing.",
+        "label": 0
+    },
+    {
+        "image": "157.png",
+        "caption": "This image features a beautiful young Asian woman posing on a bench. She is wearing a trendy outfit, consisting of a long-sleeved pink lace crop top, paired with high-waisted grey flared jeans. The lace top features a V-neckline and a flared sleeve design, while the jeans have a high waist and a flare leg cut. The overall look is very fashionable and stylish.",
+        "label": 1
+    },
+    {
+        "image": "158.png",
+        "caption": "In the image, the girl is wearing a light brown V-neck knitted cardigan, which is very comfortable and easy to match with other clothes. She also wears a deep blue, wide-legged jeans, which gives a very relaxed and comfortable feeling. The whole outfit is very suitable for spring or autumn, and it can be worn out to meet various casual occasions.",
+        "label": 0
+    },
+    {
+        "image": "159.png",
+        "caption": "This image features a beautiful young girl with long dark hair standing by a window. She is wearing a lovely yellow dress with a gathered waist and short puffy sleeves, showcasing her elegant figure. The dress has a layered skirt, adding a touch of playfulness to her look. The girl is also wearing a pair of white sneakers, which perfectly match her outfit and adds a casual, comfortable feel to the overall image. Her dress and outfit are complemented by a delicate necklace, adding a touch of elegance to her appearance.",
+        "label": 1
+    },
+    {
+        "image": "160.png",
+        "caption": "The model in the image is wearing a white, off-the-shoulder blouse with a ruffled collar. The blouse has puffy sleeves and is tied at the waist with a belt. The model also wears flared jeans with a high waist and a raw hem. The overall style is very trendy and suitable for casual or formal occasions.",
+        "label": 0
+    },
+    {
+        "image": "161.png",
+        "caption": "In the image, we can see a beautiful young lady dressed in a very stylish manner. She is wearing a very cute grey dress, which looks very comfortable and suitable for spring and autumn. She also has on a very long grey cardigan, which not only adds a sense of fashion but also protects her body from the cold. In addition, she has on a pair of very stylish black knee-high boots, which not only add a sense of fashion but also make her look taller. Overall, her outfit is very suitable for a casual date or a shopping trip with friends.",
+        "label": 1
+    },
+    {
+        "image": "162.png",
+        "caption": "In the image, the girl is wearing a very cute pink dress, it looks very comfortable and cool. The fabric of the dress looks very good, it looks very expensive. The girl's shoes are also very beautiful, they are white with thick soles, making the girl's legs look very long. Overall, this outfit is very suitable for the girl, she looks very beautiful.",
+        "label": 1
+    },
+    {
+        "image": "163.png",
+        "caption": "The girl in the picture is very cute, with long dark hair. She is wearing a white long-sleeved top and light blue flared jeans. Her white shoes are very delicate, like sneakers. She also has a white bag.",
+        "label": 1
+    },
+    {
+        "image": "164.png",
+        "caption": "In this image, we can see a beautiful young lady with long blonde hair, standing by a window. She's wearing a grey, long-sleeved shirt that is slightly loose, paired with a pair of flare jeans that are just loose enough to give off a fashionable air. She's also wearing a pair of white platform sneakers that perfectly match her outfit. This outfit is both comfortable and stylish, perfect for a casual day out.",
+        "label": 1
+    },
+    {
+        "image": "165.png",
+        "caption": "In the image, there is a girl with long black hair wearing a grey top and blue jeans. The top is of a scoop neck and long sleeves, giving it a casual and comfortable feel. The jeans are flare-bottomed, adding a touch of retro style to the outfit. As for the shoes, the girl is wearing white platform shoes, which not only look stylish but also show her unique taste in fashion. Overall, this outfit is both fashionable and suitable for daily wear.",
+        "label": 1
+    },
+    {
+        "image": "166.png",
+        "caption": "This image features a beautiful young girl showcasing a very cute and stylish outfit. She is wearing a short grey skirt that perfectly accentuates her long and beautiful legs. The outfit also features a blue and white striped shirt with a black tie, adding a touch of elegance and sophistication. The girl is also wearing a pair of black shoes with large laces, which complement the overall look. Her outfit is completed with a pair of white ruffled socks that add a playful touch to the ensemble. This outfit is perfect for a day out with friends or a casual date, and it's definitely one that will turn heads and make people say \"WOW!\"",
+        "label": 1
+    },
+    {
+        "image": "167.png",
+        "caption": "The girl in the picture is very cute, with short hair and large eyes, wearing a yellow floral dress, white socks, and white shoes. The dress has a square neck and is short-sleeved, with floral patterns. The fabric is transparent and the dress has a layered skirt.",
+        "label": 0
+    },
+    {
+        "image": "168.png",
+        "caption": "In the image, there's a female wearing a white vest top, light blue jeans, and white shoes. She also has a pink bag. This outfit is very cute and suitable for daily wear, especially for summer. The light blue color of the jeans is very fresh and matches well with the white top, giving a clean and bright feeling. The white shoes are also very comfortable and can be worn for a long time. As for the bag, its pink color adds a touch of girliness to the outfit and matches well with the female's skin tone, making her look more attractive. Overall, this is an very suitable outfit for a casual day out with friends.",
+        "label": 1
+    },
+    {
+        "image": "169.png",
+        "caption": "The girl in the image is wearing a pair of black shorts that are very tight-fitting, revealing her slender legs. She also has on a light green crop top that shows off her slim waist. To complete the look, she is wearing a pair of black high-heeled boots with silver decorations on the upper part. Her black hat matches her outfit perfectly. This outfit is both stylish and shows off the girl's\u81ea\u4fe1 and self-assured personality.",
+        "label": 0
+    },
+    {
+        "image": "170.png",
+        "caption": "In this image, we see a beautiful young woman leaning against a wall and smiling at the camera. She is wearing a fashionable outfit, consisting of a light-colored, ruffled top paired with light blue, flare-bottom jeans. The top has a cold shoulder design, which is very trendy right now. The outfit is completed with a pair of nude-colored heels, which adds a touch of elegance. The overall look is very chic and stylish.",
+        "label": 0
+    },
+    {
+        "image": "171.png",
+        "caption": "This image features a girl with long black hair, wearing a white shirt with black stripes, a red and black plaid skirt, and black shoes. She's also carrying a black bag with a strap. Her outfit is a great mix of casual and fashionable, perfect for a day out with friends.",
+        "label": 0
+    },
+    {
+        "image": "172.png",
+        "caption": "This girl is so chic and put-together, wearing a white crop top with flowy sleeves and high-waisted jeans that flatter her figure. Her white shoes and purse complete the look, giving her an air of sophistication and style.",
+        "label": 1
+    },
+    {
+        "image": "173.png",
+        "caption": "In the image, there is a girl wearing a mustard yellow off-shoulder knitted sweater, which is very beautiful and elegant. She also wears a black leather skirt, which shows her long legs very well. She carries a black bag with a silver chain, and her shoes are black platform shoes. This outfit is very suitable for her, making her look very tall and thin.",
+        "label": 0
+    },
+    {
+        "image": "174.png",
+        "caption": "This is a white, ruffled dress with a V-neckline and long sleeves. It appears to be made of a delicate, see-through fabric. The model is wearing black and white shoes and carrying a pink handbag.",
+        "label": 0
+    },
+    {
+        "image": "175.png",
+        "caption": "This is a very cute outfit, with a white top featuring a square neck and ruffled sleeves, paired with a short denim skirt featuring a belt. The model's choice of white shoes and white socks also adds a fresh and clean feel to the outfit. This is definitely an excellent choice for a summer outfit, especially for those who prefer a more elegant and stylish look.",
+        "label": 0
+    },
+    {
+        "image": "176.png",
+        "caption": "In the image, the girl is wearing a blue and grey dress with a black skirt layered at the bottom. She also has a pair of black shoes and is carrying a pink bag. The overall style of the outfit is very cute and suitable for outdoor activities.",
+        "label": 0
+    },
+    {
+        "image": "177.png",
+        "caption": "This image features a young woman standing in a clothing store, wearing a black square neck short dress and a pair of black platform high boots. The dress has long sleeves and is of a simple design, while the boots are tall and have a leather texture. The outfit is perfect for someone who wants to make a bold fashion statement.",
+        "label": 0
+    },
+    {
+        "image": "178.png",
+        "caption": "The girl in the picture is very beautiful, with long black hair and large breasts. She is wearing a white shirt that has been torn and is showing her black bra. She also wears a black skirt that shows her long legs. She is wearing black shoes and has her hands on her shoulders.",
+        "label": 1
+    },
+    {
+        "image": "179.png",
+        "caption": "This image features a beautiful young woman with dark hair, posing next to a wall. She is wearing a neutral-colored outfit, consisting of a beige V-neck sweater and a matching mini skirt. The skirt is held up by a belt, adding a fashionable touch to the ensemble. The model also wears a pair of beige boots, completing the monochromatic look. The overall style of the outfit is trendy and sophisticated, perfect for a casual yet elegant appearance.",
+        "label": 0
+    },
+    {
+        "image": "180.png",
+        "caption": "This image features a beautiful young woman with long black hair, standing in a room with a white wall. She is wearing a grey fur coat, which appears to be a thick and warm winter garment. The coat has a fluffy texture and a V-neckline, adding a sense of elegance and warmth to her overall look. In addition, she is wearing a pair of black flare pants, which complement her coat and add a sense of style and sophistication to her outfit. The pants have a tight fit at the waist and gradually flared outwards, highlighting her slender legs and adding a sense of dynamism to her appearance. Overall, this outfit is perfect for a chilly day and exudes a sense of confidence and charm.",
+        "label": 1
+    },
+    {
+        "image": "181.png",
+        "caption": "The girl in the image is wearing a very cute schoolgirl outfit! Her gray pleated skirt is so cute, and paired with her white tank top, it creates a very nice effect. She has on a white button-up shirt over it, and it really finishes the outfit off nicely. She also has on some cute black shoes with white socks, and a bag with a strap that matches her outfit. It's a very put-together look!",
+        "label": 1
+    },
+    {
+        "image": "182.png",
+        "caption": "The young woman in the image is wearing a fashionable and stylish outfit. She has on a light brown, off-the-shoulder blouse with long sleeves and a V-neckline. The blouse has a slightly loose fit, adding a sense of casualness to the look. Paired with a tan mini skirt, the outfit looks very elegant and ladylike. The young woman is also wearing a pair of camel platform sandals, which not only add height but also accentuate her legs. Overall, this outfit is perfect for someone who wants to look fashionable and put-together while still maintaining a sense of comfort.",
+        "label": 0
+    },
+    {
+        "image": "183.png",
+        "caption": "This dress is so unique, I love how the layers of silk fabric create a sense of movement and fluidity. The neutral color palette is so elegant and timeless. This outfit is perfect for a fall day, I love how the long sleeves and flowy skirt create a balance between femininity and\u8857\u5934\u98ce\u683c. The combination of the chunky combat boots and this delicate dress is so unexpected, but it works so well!",
+        "label": 0
+    },
+    {
+        "image": "184.png",
+        "caption": "The girl in the image is wearing a very cute and stylish outfit. She has on a white, off-shoulder blouse with a ruffled collar, which is very fashionable and suitable for summer. She also has on a black skirt that is very elegant. In addition, she has on white socks that match perfectly with her outfit. Her outfit is very suitable for a summer outing or a casual event.",
+        "label": 0
+    },
+    {
+        "image": "185.png",
+        "caption": "This image features a young woman taking a mirror selfie, wearing a yellow top and a white skirt with black dots. The top is a short-sleeved design and is worn by the girl in the photo. The skirt is a mini-length, flared style with black dots on it, making the girl look very cute. She also wears white socks and yellow shoes in the photo.",
+        "label": 1
+    },
+    {
+        "image": "186.png",
+        "caption": "This image features a young Asian woman taking a mirror selfie in her room. She is wearing a white v-neck knit top and a pink pleated skirt. The top has a ribbed texture and appears to be made of a soft and stretchy material. The skirt is a A-line style, which means it flares out from the waist and has a smooth, flowing silhouette. The pleated texture adds a touch of sophistication to the skirt. The woman is also wearing pastel pink socks and gray shoes with a white heel. She has a white handbag with a long strap over her shoulder. This outfit is perfect for a casual yet stylish day out with friends.",
+        "label": 0
+    },
+    {
+        "image": "187.png",
+        "caption": "This image features a young woman taking a mirror selfie in her room. She is wearing a black top with a V-neckline, featuring lace details. The top appears to be sleeveless, adding a trendy touch to her outfit. Paired with this top is a pastel pink mini skirt, which adds a pop of color to her look. She accessorizes with a small black bag with a strap, completing the stylish ensemble. Additionally, she wears a pair of pink shoes and white socks, adding a playful touch to her overall look.",
+        "label": 1
+    },
+    {
+        "image": "188.png",
+        "caption": "In this image, we can see a mirror selfie of a girl wearing a white lace top and a denim skirt. The lace top has a square neck and is sleeveless, while the denim skirt is high-waisted and appears to be quite short. The girl is also wearing white boots and has her hair in a braid. Her socks are a light yellowish-white and her nails are a light sage green. This outfit gives off a cute and casual vibe, perfect for a warm summer day.",
+        "label": 0
+    },
+    {
+        "image": "189.png",
+        "caption": "This image features a beautiful young Asian woman taking a mirror selfie in a flowery dress. The dress is a pastel pink color with a floral pattern, and it has a square neckline that shows off the woman's beautiful d\u00e9colletage. The dress is a mid-length, sleeveless number that falls just above the woman's knees. She is wearing a pair of silver heels that match the dress perfectly. The overall style of the outfit is elegant and feminine, perfect for a summer day or a special occasion.",
+        "label": 0
+    },
+    {
+        "image": "190.png",
+        "caption": "This image features a girl taking a mirror selfie in her room, wearing a cute schoolgirl outfit. She is dressed in a light blue short-sleeved shirt, which is tied at the collar with a black ribbon. The shirt has a pleated design on the chest, giving it a more feminine and stylish look. The girl is also wearing a gray pleated skirt, which complements the shirt perfectly. To add a touch of playfulness to the outfit, she is wearing white knee-high socks with black polka dots. The girl is also carrying a black handbag with a silver chain strap, which matches her outfit perfectly. Overall, this outfit is perfect for a day at school or any casual occasion.",
+        "label": 0
+    },
+    {
+        "image": "191.png",
+        "caption": "In this image, we can see a young lady taking a mirror selfie. She is wearing a cute summer outfit. Her top is a white one with a black bow, paired with a black skirt. To complete the look, she is wearing a long sleeve lavender shirt open over the top, with white socks and grey shoes. Her accessories include a silver necklace with a black pendant and a silver watch on her left wrist. She is also holding a phone with the camera open to take the mirror selfie.",
+        "label": 1
+    },
+    {
+        "image": "192.png",
+        "caption": "In this image, we see a beautiful young woman taking a mirror selfie in her black pleated skirt and black tank top. The skirt has a fashionable design that adds to the overall look. She accessorizes the outfit with a crossbody bag that matches her outfit perfectly. Her socks are a unique white color that adds a pop of contrast to the outfit. Overall, this outfit is a great example of the trendy and stylish fashion that is popular on social media.",
+        "label": 0
+    },
+    {
+        "image": "193.png",
+        "caption": "The girl in the picture is very cute, with long brown hair. She wears a white tennis skirt and white sneakers, both of which are from Nike. She also wears a white face mask with a red pattern on it, and has a small bag with a red strap.",
+        "label": 1
+    },
+    {
+        "image": "194.png",
+        "caption": "This image features a young woman wearing a black and white plaid shirt, which is open to reveal a white shirt underneath. She also has on a black mini skirt and white shoes. The outfit is finished off with a black bag and a mask. This is a very cute and stylish outfit, perfect for running around and going about her day.",
+        "label": 0
+    },
+    {
+        "image": "195.png",
+        "caption": "The girl in the image is very stylish, dressed in a white shirt with long sleeves and a black skirt. She also has on a pair of white sneakers and a mask. This outfit is perfect for going out, especially if it's warm outside.",
+        "label": 0
+    },
+    {
+        "image": "196.png",
+        "caption": "The girl in the image is wearing a white mask, a brown jacket, a white shirt, a green skirt, and white shoes. The brown jacket has large pockets and is open in front, exposing the white shirt. The girl's skirt is also green.",
+        "label": 0
+    },
+    {
+        "image": "197.png",
+        "caption": "In the image, there is a girl wearing a white hoodie and white shoes. The hoodie has a loose fit and appears to be quite long, almost reaching the girl's knees. The all-white outfit gives the girl a very clean and bright appearance. As for the shoes, they are also white, with a thick sole for better cushioning and support. The girl is also carrying a black bag with a long strap, which accentuates her outfit very well.",
+        "label": 0
+    },
+    {
+        "image": "198.png",
+        "caption": "The model in the picture is really beautiful, with long black hair and a clean white mask on her face. She is wearing a white dress with a V-neckline, which shows off her beautiful shoulders and collarbones. The dress is long and flowing, and it looks very elegant. In her hand, she's holding a small white bag and a bouquet of white roses, which perfectly matches the dress and shows her gentle temperament. She is also wearing a light blue cardigan on her shoulders, which adds a touch of freshness and vitality to the whole outfit.",
+        "label": 1
+    },
+    {
+        "image": "199.png",
+        "caption": "The person in the image is wearing a white top, a grey cardigan as a outerwear, a black skirt as a lower outfit, and white shoes. There's a black hat and a black handbag as accessories.",
+        "label": 0
+    },
+    {
+        "image": "200.png",
+        "caption": "The model in the image is wearing a long skirt and a white top. The long skirt is pink and has a metallic gold stripe on it. The model is also wearing a white face mask, white shoes, and holding a black bag. This outfit is elegant and fashionable, perfect for a casual yet stylish look. The combination of pink and gold also adds a touch of luxury to the outfit. Overall, this is a very attractive and eye-catching outfit.",
+        "label": 1
+    },
+    {
+        "image": "201.png",
+        "caption": "In the image, we can see a girl wearing a black long-sleeved shirt. It's a loose-fitting hoodie, with a white lining on the collar. She also has on a black mini skirt, which shows off her legs. And of course, she's wearing her trusty white face mask to protect herself and others from COVID. The girl's white sneakers and long socks add a pop of color to the outfit, making it look even more stylish. Overall, this outfit is perfect for a casual day out with friends.",
+        "label": 1
+    },
+    {
+        "image": "202.png",
+        "caption": "The girl in the picture is very cute, she wears a white face mask, with a blue and white striped shirt, and a white skirt, her shoes are also very beautiful, white with thick soles.",
+        "label": 1
+    },
+    {
+        "image": "203.png",
+        "caption": "This image features a woman wearing a white, flowing dress with a loose-fitting silhouette. The dress has a V-neckline and long sleeves, adding a sense of elegance to the outfit. The woman is also wearing a white mask to match her outfit, which is a practical and fashionable choice. The overall look is minimalist and stylish, suitable for a variety of occasions.",
+        "label": 1
+    },
+    {
+        "image": "204.png",
+        "caption": "The model in the picture is really beautiful, with long hair to the waist, wearing a white, long-sleeved, floor-length dress, holding a bouquet of flowers in her hand, and her shoes are also white, very cute.",
+        "label": 1
+    },
+    {
+        "image": "205.png",
+        "caption": "This image shows a woman with long black hair wearing a white mask over her face. She is dressed in a white shirt, a brown cardigan, and a green skirt. The outfit is finished with white shoes and a brown bag. The woman is also holding a white cable.",
+        "label": 1
+    },
+    {
+        "image": "206.png",
+        "caption": "The person in the image is wearing a long black skirt and a gray cardigan. The black skirt has a high waist and is likely made of a chiffon material. The gray cardigan is oversized and features a V-neckline and long sleeves. The person is also wearing a white face mask to protect against COVID-19. They are holding a white cane and carrying a black handbag with a strap.",
+        "label": 1
+    },
+    {
+        "image": "207.png",
+        "caption": "The girl in the image is dressed in a black leather jacket, a red and white plaid skirt, and black shoes. She also has on a white shirt and a black and white tie.",
+        "label": 0
+    },
+    {
+        "image": "208.png",
+        "caption": "The girl in the picture is very elegant and stylish, dressed in a light blue shirt with a double-breasted design, a black skirt that accentuates her legs, and white shoes that match perfectly. She also has a black bag that matches her outfit.",
+        "label": 0
+    },
+    {
+        "image": "209.png",
+        "caption": "The girl in the image is wearing a black mini skirt and a white top. The skirt is black and has a see-through design. The top is white and has a ruffled design. The girl is also wearing a black hat and black boots. The boots are high and have a zipper design. She is also wearing a mask to protect herself from the virus. The overall style of her outfit is very cute and suitable for daily or casual wear.",
+        "label": 0
+    },
+    {
+        "image": "210.png",
+        "caption": "In the image, the girl is wearing a black hat, a black and white top, a black skirt, and white shoes. She also has a black bag. This outfit gives off a very stylish and fashionable vibe. The black and white top is a classic and versatile choice that can be paired with many different bottoms. The black skirt is a bold and eye-catching piece that adds a touch of sophistication to the outfit. The white shoes and black bag provide a nice contrast to the darker colors of the top and skirt, and add a touch of sophistication to the overall look. Overall, this outfit is perfect for someone who wants to make a\u65f6\u5c1a statement.",
+        "label": 0
+    },
+    {
+        "image": "211.png",
+        "caption": "In the image, a girl is wearing a white dress with a square neck and long sleeves, carrying a black bag with a white strap and holding a brown teddy bear. The dress has a layered skirt design, giving a sense of fairy and dreaminess. The overall style is very cute and suitable for summer wear.",
+        "label": 1
+    },
+    {
+        "image": "212.png",
+        "caption": "The girl in the picture is very stylish, dressed in a black V-neck short skirt, showing her slender legs. She also wears a white face mask, which is very trendy.",
+        "label": 0
+    },
+    {
+        "image": "213.png",
+        "caption": "The girl in the picture is very cute, she wears a white face mask, white skirt and white shoes, and carries a red and white bag. The clothes are all white, very fresh and clean, like a white flower.",
+        "label": 1
+    },
+    {
+        "image": "214.png",
+        "caption": "The girl in the picture is very elegant, dressed in a pure white dress, with a pure white mask to cover her face, and white shoes on her feet. The dress has a V-neckline, long sleeves, and is probably a long skirt design. The fabric of the dress is very smooth, probably cotton or linen, and the dress is very suitable for spring and summer wear.",
+        "label": 1
+    },
+    {
+        "image": "215.png",
+        "caption": "The girl in the picture is very cute, she wears a light purple dress, her long sleeves are also light purple, and there is a small round collar. She also wears a white mask to protect herself from the virus, and holds a small white flower bag in her hand. She is really pretty and I really like her.",
+        "label": 1
+    },
+    {
+        "image": "216.png",
+        "caption": "The girl in the picture is really beautiful, with long hair and fair skin. She is wearing a pink floral dress, which is very beautiful and feminine. The dress has a very good material, the color is very fresh, and the floral pattern is very cute. The girl in the picture is very slender, the dress is very fitting, showing her very good figure. She also wears a white mask on her face, which looks very clean and fresh. She also holds a white rose in her hand, which is very elegant.",
+        "label": 1
+    },
+    {
+        "image": "217.png",
+        "caption": "The person in the image is wearing a black and white outfit, with a black skirt and a white short-sleeved T-shirt. The black skirt has a wide and long shape, and the person wearing it is dressed in black shoes with high heels and white socks. The outfit is simple and elegant, with a clear contrast between black and white.",
+        "label": 0
+    },
+    {
+        "image": "218.png",
+        "caption": "The girl in the picture is very beautiful and elegant, with long black hair. She is wearing a white mask, white short-sleeved shirt, black short skirt, and white sneakers. The outfit is very simple and fresh, with a clear-cut design that highlights the wearer's personal taste. The choice of white as the main color tone makes the whole person look more delicate and refined.",
+        "label": 1
+    },
+    {
+        "image": "219.png",
+        "caption": "The girl in the image is wearing a white dress with a full skirt, and her shoes and socks are all white.",
+        "label": 0
+    },
+    {
+        "image": "220.png",
+        "caption": "The girl in the picture is very stylish, wearing a white hoodie with long sleeves and a black skirt. Her outfit is very suitable for her, very cute.",
+        "label": 0
+    },
+    {
+        "image": "221.png",
+        "caption": "The girl in the picture is very stylish, dressed in a white top with a black pattern, a gray skirt, and a gray suit. She also wears a white face mask to protect herself from the virus. Her black long hair is naturally curled, and she is wearing a pair of white shoes with thick soles. The clothes are very suitable for her, very stylish.",
+        "label": 1
+    },
+    {
+        "image": "222.png",
+        "caption": "The person in the image is wearing a white one-shoulder blouse and light blue flared jeans. The blouse has a unique design, with large ruffled sleeves and a loose fit overall. The jeans are high-waisted and have a bell-bottom style, giving off a retro feel. The outfit appears to be comfortable and suitable for casual occasions.",
+        "label": 0
+    },
+    {
+        "image": "223.png",
+        "caption": "The girl in the picture is very cute, with long black hair. She is wearing a white skirt and a blue cardigan. She also wears a white face mask. Her white shoes are very comfortable, and she carries a cute teddy bear bag. This outfit is very suitable for her, making her look very cute.",
+        "label": 1
+    },
+    {
+        "image": "224.png",
+        "caption": "In the image, the girl is dressed in a white frock, carrying a brown bag with a flower pattern. The clothes are very suitable for spring and autumn, and the overall style is very gentle and elegant.",
+        "label": 1
+    },
+    {
+        "image": "225.png",
+        "caption": "The girl in the image is very cool and has a high sense of fashion. She is wearing a white mask and a white suit, both of which are of very good quality. Her pants are very comfortable and the fabric is very good. Her white shoes are also very beautiful, very simple and elegant. Overall, this outfit is very suitable for her, she looks very good.",
+        "label": 1
+    },
+    {
+        "image": "226.png",
+        "caption": "The woman in the image is wearing a light-colored dress, holding a small bouquet of white roses. The dress has a floral pattern and appears to be of a vintage style. The woman is also wearing a white mask, which matches the pattern of her dress. The outfit looks very cute and suitable for a summer day out.",
+        "label": 1
+    },
+    {
+        "image": "227.png",
+        "caption": "In the image, the girl is wearing a white face mask, a white loose shirt, and blue jeans. The shirt is long and baggy, almost covering her body. The girl's shoes are white sneakers. This outfit is simple, clean, and gives a sense of casual comfort.",
+        "label": 1
+    },
+    {
+        "image": "228.png",
+        "caption": "In the image, there is a person wearing a white fluffy dress with ruffles. The person also has a white teddy bear headband and is carrying a white bag. This outfit gives off a cute and playful vibe, perfect for a day at the amusement park or a casual photoshoot. The use of white also creates a clean and elegant look. Overall, this outfit is both fashionable and comfortable, making it a great choice for any occasion.",
+        "label": 1
+    },
+    {
+        "image": "229.png",
+        "caption": "The girl in the image is wearing a black and white dress, with a black top and a white bottom. The dress has a square neck and is full of vitality. She also wears white shoes and carries a black bag. The bag has a long handle, which is very fashionable. In addition, she is wearing a white mask to protect herself from the virus.",
+        "label": 0
+    },
+    {
+        "image": "230.png",
+        "caption": "In the image, the girl is dressed in all white, she is wearing a white shirt with her sleeves rolled up to her elbows, and a white skirt that appears to be quite short. She is also wearing a white mask to match her outfit. Her bag is placed on her shoulder. This outfit gives off a very clean and simple vibe, with a touch of cuteness from the short skirt.",
+        "label": 0
+    },
+    {
+        "image": "231.png",
+        "caption": "The girl in the image is wearing a blue skirt, with a white face mask and white shoes. The skirt is layered and has a frilly design. The shirt she's wearing is transparent and has long sleeves.",
+        "label": 0
+    },
+    {
+        "image": "232.png",
+        "caption": "The woman in the image is wearing a beautiful green dress, and her outfit looks very stylish. The dress is very comfortable and soft, and it seems to be made of high-quality material. The color of the dress is very fresh and suitable for spring and summer, and it also shows the woman's elegant and elegant side. The overall style of the clothes is very suitable for spring and summer, and it is also a very good choice for going out.",
+        "label": 0
+    }
+]
