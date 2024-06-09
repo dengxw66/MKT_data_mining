@@ -13,6 +13,7 @@
 2. **[[`Multimodal`](https://gitee.com/dengxw66/MKT_data_mining/tree/master/Multimodal)]**: Image processing:
     - Multimodal embedding alignment
     - Image-to-text caption
+    - Use images/text as features for binary classification.
 
 ## ML Causal Inference
 
