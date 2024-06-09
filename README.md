@@ -1,5 +1,7 @@
 # Data Mining for marketing research
 
+Only the most basic functionality is implemented, showing some simple demo examples.
+
 ## Data Collection
 
 1. **[[`Crawler`](https://gitee.com/dengxw66/MKT_data_mining/tree/master/Crawler)]**: Crawler script to get data, such as from social media platforms.
@@ -11,6 +13,7 @@
     - NLP: Topic modeling, sentiment analysis, word frequency statistics.
     - Document: Questioning, summary, retrieval.
 2. **[[`Multimodal`](https://gitee.com/dengxw66/MKT_data_mining/tree/master/Multimodal)]**: Image processing:
+    - Segment objects in image.
     - Multimodal embedding alignment.
     - Image-to-text caption.
     - Use images/text as features for binary classification.
