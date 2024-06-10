@@ -37,6 +37,7 @@
 
 - 图片image例子：原始图片样例[`image_sample`](https://github.com/dengxw66/MKT_data_mining/blob/master/Multimodal/data/image_sample.jpg)
 - 评论text例子：使用大模型[`ChatGLM`](https://github.com/THUDM/ChatGLM3)生成对应的各种风格语气的对应评论，模拟小红书评论。见[`captions_labeled.json`](https://github.com/dengxw66/MKT_data_mining/blob/master/Multimodal/data/captions_labeled.json)
+- label标签：假定出现了白裙子和灰裤子的风格会火起来，label为1。其余风格为0。
 
 ### 方案1实验：
 
