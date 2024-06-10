@@ -74,21 +74,23 @@
 
 ### 结论：
 
-效果最好的是方案1，即[`resnet`](https://github.com/KaimingHe/deep-residual-networks)提取文本特征，然后使用[`word2vec`](https://code.google.com/archive/p/word2vec/)提取图片特征。理由也很自然，因为这两个特征提取模型都是各自领域的State-of-the-Art模型，效果稳定，久经考验。
+- 效果最好的是方案1，即[`resnet`](https://github.com/KaimingHe/deep-residual-networks)提取文本特征，然后使用[`word2vec`](https://code.google.com/archive/p/word2vec/)提取图片特征。准确率达到了68%
+
+- 这是因为这两个特征提取模型都是各自领域的State-of-the-Art模型，效果稳定，久经考验。
 
 
 
 ## 四、讨论：
 
 
-### 为什么多模态大模型(如[`imagebind`](https://arxiv.org/abs/2305.05665)或[`imagebind-LLM`](https://arxiv.org/abs/2309.03905))效果不好/不适合这个任务？
-1. 多模态大模型的数据集和训练过程强调的是图片文本的对齐，即图片翻译理解。并不是特征提取和识别风格。
+### 为什么多模态大模型效果不好/不适合这个任务？
+1. 多模态大模型(如[`imagebind`](https://arxiv.org/abs/2305.05665)或[`imagebind-LLM`](https://arxiv.org/abs/2309.03905))的数据集和训练过程强调的是图片文本的对齐，即图片翻译理解。并不是特征提取和识别风格。
 2. 如果将图片翻译成文本再融合。相比于embedding嵌入为向量，信息损失太多。见表格的`only text`一栏。
 3. 大语言模型是基于transformer输出上下文预测，核心能力是上下文补全。不适合这种二分类任务。经典泛用性深度学习网络MLP更加常见和适用于这个任务。
 
 ### 后续提高：
-1. 更大规模的数据。现在的数据太少，因此训练集的泛化性不够。准确率较低。
-2. text的预处理技术。
-3. MLP更多的模型架构和微调技术。
+1. 更大规模的数据。现在的数据太少，因此训练集的泛化性不够，准确率较低，只能到68%。如果更多数据预计准确率可以到75%左右。
+2. text特征的预处理/数据清洗技术。这部分可以考虑使用大模型提取特征或者summary关键词。
+3. 更多的MLP模型架构和微调训练技术。
 
 
