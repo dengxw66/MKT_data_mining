@@ -63,7 +63,7 @@
 - 结果见[`train_separate.ipynb`](https://github.com/dengxw66/MKT_data_mining/blob/master/Multimodal/fusion/train_separate.ipynb)：
 
 | Combination        | Train Accuracy | Test Accuracy |
-| :---        |    :----:   |          ---: |
+| :---:        |    :----:   |          :---: |
 | text + mask + image | 1.0000         | 0.5957        |
 | mask + image       | 1.0000         | 0.5532        |
 | mask + text        | 1.0000         | 0.5957        |
@@ -77,7 +77,7 @@
 - 结果见[`train_align.ipynb`](https://github.com/dengxw66/MKT_data_mining/blob/master/Multimodal/fusion/train_align.ipynb):
 
 | Combination         | Train Accuracy | Test Accuracy |
-| :---        |    :----:   |          ---: |
+| :---:       |    :----:   |          :---: |
 | text + mask + image | 1.0000         | 0.6383        |
 | mask + image        | 1.0000         | 0.5957        |
 | mask + text         | 0.9946         | 0.6170        |
