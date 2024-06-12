@@ -32,7 +32,7 @@
 **2.2.2. 方案2：**
 - 对image和text，都使用大模型多模态对齐嵌入工具(如[`imagebind`](https://arxiv.org/abs/2305.05665)或[`imagebind-LLM`](https://arxiv.org/abs/2309.03905))进行嵌入。同样考虑使用[`segment`](https://github.com/levindabhi/cloth-segmentation)分割衣服。
 
-### 2.3 时序数据建模：
+### 2.3 时序数据建模
 
 **2.3.1. 方案1：**
 
@@ -56,8 +56,9 @@
 - label标签：假定出现了“dress，sneakers或jeans”的风格会火起来，hotness的label为1。其余风格label为0。数据比例为：41.10%/59.90%
 - time序列：假定1000条数据为1000天。取前800天训练，后200天测试。
 
+### 3.2 实验
 
-### 3.2 多模态数据融合-实验
+#### 3.2.1 多模态数据融合
 
 - 根据方案1,用resnet嵌入图片，用word2vec嵌入文本。
 - 结果见[`train_separate.ipynb`](https://github.com/dengxw66/MKT_data_mining/blob/master/Multimodal/fusion/train_separate.ipynb)：
@@ -86,7 +87,7 @@
 | only image          | 1.0000         | 0.6170        |
 | only text           | 0.7135         | 0.6809        |
 
-### 3.3 时序数据建模-实验
+#### 3.2.2 时序数据建模
 
 - 根据方案1,用LSTM。结果见[`train_lstm.ipynb`](https://github.com/dengxw66/MKT_data_mining/blob/master/Multimodal/time_sequence/train_lstm.ipynb)：
 
@@ -105,16 +106,16 @@
 
 
 
-### 3.4 结论：
+### 3.3 结论：
 
 
-**3.4.1. 多模态数据融合-结论**
+**3.3.1. 多模态数据融合**
 - 效果最好的是方案1，即[`resnet`](https://github.com/KaimingHe/deep-residual-networks)提取文本特征，然后使用[`word2vec`](https://code.google.com/archive/p/word2vec/)提取图片特征。准确率达到了68%
 
 - 这是因为这两个特征提取模型都是各自领域的State-of-the-Art模型，效果稳定，久经考验。而imagebind等模型注重的是图片文本的对齐，在各自提取特征上没有明显优势。
 
 
-**3.4.2. 时序数据建模-结论**
+**3.3.2. 时序数据建模**
 - 平均效果最好的是方案1，即[`LSTM`](https://www.sciencedirect.com/science/article/pii/S2212827121003796)。但是[`Transformer`](https://arxiv.org/abs/2306.07303)在text维度的精度达到了最高的精度72.6%。可能是由于Transformer特别适合text数据的建模，正如大模型的基座是transformer一样。
 
 - 具体采用哪个模型，还需要更多具体数据和实验，暂时无法确定。
