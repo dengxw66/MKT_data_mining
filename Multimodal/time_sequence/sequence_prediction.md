@@ -111,13 +111,13 @@
 **3.4.1. 多模态数据融合-结论**
 - 效果最好的是方案1，即[`resnet`](https://github.com/KaimingHe/deep-residual-networks)提取文本特征，然后使用[`word2vec`](https://code.google.com/archive/p/word2vec/)提取图片特征。准确率达到了68%
 
-- 这是因为这两个特征提取模型都是各自领域的State-of-the-Art模型，效果稳定，久经考验。
+- 这是因为这两个特征提取模型都是各自领域的State-of-the-Art模型，效果稳定，久经考验。而imagebind等模型注重的是图片文本的对齐，在各自提取特征上没有明显优势。
 
 
 **3.4.2. 时序数据建模-结论**
-- 平均效果最好的是[`LSTM`](https://www.sciencedirect.com/science/article/pii/S2212827121003796)。但是[`Transformer`](https://arxiv.org/abs/2306.07303)在text维度的精度达到了最高的精度72.6%
+- 平均效果最好的是方案1，即[`LSTM`](https://www.sciencedirect.com/science/article/pii/S2212827121003796)。但是[`Transformer`](https://arxiv.org/abs/2306.07303)在text维度的精度达到了最高的精度72.6%
 
-- 可能是由于Transformer特别适合text数据，正如大模型的基座是transformer一样。
+- 可能是由于Transformer特别适合text数据的建模，正如大模型的基座是transformer一样。
 
 
 
@@ -130,8 +130,7 @@
 
 ### 4.2 后续提高：
 1. 更大规模的数据。现在的数据太少，因此训练集的泛化性不够，过于随机(可能根本不存在趋势)，准确率较低。
-2. 超参数的微调，不同的时间窗口长度，不同的训练次数都可能影响模型精度。
-3. text特征的预处理/数据清洗技术。这部分可以考虑使用大模型提取特征或者summary关键词。
-4. 更多的模型架构和微调训练技术。
+2. text特征的预处理/数据清洗技术。这部分可以考虑使用大模型提取特征或者summary关键词。
+3. 更多的模型架构和微调训练技术。超参数的微调，不同的时间窗口长度，不同的训练次数都可能影响模型精度。
 
 
