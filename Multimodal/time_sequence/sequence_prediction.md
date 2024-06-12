@@ -19,26 +19,26 @@
     <img src="time_sequence.jpg" width="600"/>
 <p>
 <br>
-核心思路为滑动窗口。
-上图为方案1的思路。方案2仅替换了不同的Encoder，其余一致。
+核心思路为滑动窗口(sliding window)。假定滑动窗口为10，所以每次送入模型一次输入1-9天内所有数据的image和text特征(这样可以捕捉时序周期波动的特征)，并以第十天的label为标签。具体送入的批次具体为: 1-10,2-11,3-12,4-13...991-1000
+
 
 
 ### 2.2 多模态数据融合
 
-**2.2.1. 方案：**
+**2.2.1. 方案1：**
 - image数据使用[`resnet`](https://github.com/KaimingHe/deep-residual-networks)进行嵌入。并且考虑使用[`segment`](https://github.com/levindabhi/cloth-segmentation)，分割人物衣服去掉无关信息，得到mask。
 - text数据使用[`word2vec`](https://code.google.com/archive/p/word2vec/)进行嵌入。
 
-**2.2.2. 方案：**
+**2.2.2. 方案2：**
 - 对image和text，都使用大模型多模态对齐嵌入工具(如[`imagebind`](https://arxiv.org/abs/2305.05665)或[`imagebind-LLM`](https://arxiv.org/abs/2309.03905))进行嵌入。同样考虑使用[`segment`](https://github.com/levindabhi/cloth-segmentation)分割衣服。
 
 ### 2.3 时序数据建模：
 
-**2.3.1. 方案：**
+**2.3.1. 方案1：**
 
 - [`LSTM`](https://www.sciencedirect.com/science/article/pii/S2212827121003796)是预测时间序列任务稳定可靠的方法，久经考验。
 
-**2.3.2. 方案：**
+**2.3.2. 方案2：**
 
 - [`Transformer`](https://arxiv.org/abs/2306.07303)，是最近大模型等基座模型，在一些长时序预测任务上也展示出来不错的效果。
 
@@ -54,7 +54,7 @@
 - 图片image例子：原始图片样例[`image_sample`](https://github.com/dengxw66/MKT_data_mining/blob/master/Multimodal/data/image_sample.jpg)
 - 评论text例子：使用大模型[`ChatGLM`](https://github.com/THUDM/ChatGLM3)生成对应的各种风格语气的对应评论，模拟小红书评论。见[`captions_with_hotness_and_time.json`](https://github.com/dengxw66/MKT_data_mining/blob/master/Multimodal/data/captions_with_hotness_and_time.json)
 - label标签：假定出现了“dress，sneakers或jeans”的风格会火起来，hotness的label为1。其余风格label为0。数据比例为：41.10%/59.90%
-- time序列：假定1000条数据为1000天。取前800天训练，后200天测试。滑动窗口为10，所以每次送入模型一次输入1-9天内所有数据的image和text特征，并以第十天的label为标签。具体送入的批次如: 1-10,2-11,3-12,4-13...991-1000
+- time序列：假定1000条数据为1000天。取前800天训练，后200天测试。
 
 
 ### 3.2 多模态数据融合-实验
@@ -115,9 +115,9 @@
 
 
 **3.4.2. 时序数据建模-结论**
-- 平均效果最好的是方案1，即[`LSTM`](https://www.sciencedirect.com/science/article/pii/S2212827121003796)。但是[`Transformer`](https://arxiv.org/abs/2306.07303)在text维度的精度达到了最高的精度72.6%
+- 平均效果最好的是方案1，即[`LSTM`](https://www.sciencedirect.com/science/article/pii/S2212827121003796)。但是[`Transformer`](https://arxiv.org/abs/2306.07303)在text维度的精度达到了最高的精度72.6%。可能是由于Transformer特别适合text数据的建模，正如大模型的基座是transformer一样。
 
-- 可能是由于Transformer特别适合text数据的建模，正如大模型的基座是transformer一样。
+- 具体采用哪个模型，还需要更多具体数据和实验，暂时无法确定。
 
 
 
@@ -126,11 +126,11 @@
 ### 4.1 为什么多模态大模型效果不好/不适合这个任务？
 1. 多模态大模型(如[`imagebind`](https://arxiv.org/abs/2305.05665)或[`imagebind-LLM`](https://arxiv.org/abs/2309.03905))的数据集和训练过程强调的是图片文本的对齐，即图片翻译理解。并不是特征提取和识别风格。
 2. 如果将图片翻译成文本再融合。相比于embedding嵌入为向量，信息损失太多。见表格的`only text`一栏。
-3. 大语言模型是基于transformer输出上下文预测，核心能力是上下文补全。不适合这种二分类任务。经典泛用性深度学习网络MLP更加常见和适用于这个任务。
+3. 大语言模型的核心能力是上下文补全。不适合这种时序建模，二分类任务。时序预测网络LSTM，或更一般的小模型Transformer等更加常见和适用于这个任务。
 
 ### 4.2 后续提高：
-1. 更大规模的数据。现在的数据太少，因此训练集的泛化性不够，过于随机(可能根本不存在趋势)，准确率较低。
-2. text特征的预处理/数据清洗技术。这部分可以考虑使用大模型提取特征或者summary关键词。
-3. 更多的模型架构和微调训练技术。超参数的微调，不同的时间窗口长度，不同的训练次数都可能影响模型精度。
+1. 更大规模的真实数据：现在的数据太少，因此训练集的泛化性不够，过于随机(可能根本不存在趋势)，准确率较低。
+2. text特征的预处理/数据清洗技术：这部分可以考虑使用大模型提取特征或者summary关键词。
+3. 更多的模型架构和微调训练技术：例如超参数的微调，不同的时间窗口长度，不同的训练次数都可能影响模型精度。
 
 
