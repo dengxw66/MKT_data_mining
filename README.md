@@ -8,7 +8,7 @@
 ## ✨️ Unstructured Data Processing
 
 1. **[[`DB`](https://gitee.com/dengxw66/MKT_data_mining/tree/master/DB)]**: Text processing:
-    - NLP: Topic modeling, sentiment analysis, word frequency statistics.
+    - NLP: Topic modeling, sentiment analysis, word frequency statistics, LIWC processing.
     - Document: Questioning, summary, retrieval.
 2. **[[`Multimodal`](https://gitee.com/dengxw66/MKT_data_mining/tree/master/Multimodal)]**: Image processing:
     - Segment objects in image.
