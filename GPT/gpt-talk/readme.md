@@ -18,7 +18,7 @@
 ## sample effect:
 
 <p align="center">
-    <img src="gpt_talk.jpg" width="400"/>
+    <img src="gpt_talk.jpg" width="600"/>
 <p>
 <br>
 
