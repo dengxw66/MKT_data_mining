@@ -22,5 +22,5 @@
 
 ## 🤖 Human-AI Interaction Environment
 
-1. **[[`GPT`](https://gitee.com/dengxw66/MKT_data_mining/tree/master/GPT)]**: GPT-API usage.
+1. **[[`GPT`](https://gitee.com/dengxw66/MKT_data_mining/tree/master/GPT)]**: GPT-API usage, Chrome-plugin for GPT dialogue.
 2. **[[`LLM`](https://gitee.com/dengxw66/MKT_data_mining/tree/master/LLM)]**: Training a LLM to simulate specific consumers.
