@@ -9,8 +9,10 @@
 
 <p align="center">
     <img src="shot.png" width="600"/>
-<p>
-<br>
+    <br>
+    <strong>输入视频的截图</strong>
+</p>
+
 
 2）使用多模态大模型[`qwen-VL`](https://github.com/QwenLM/Qwen-VL)，对于每一帧图片进行caption提问（[`qwen.ipynb`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/qwen.ipynb)），加入history日志功能，因此如果图片前后类似的话，容易得到非常类似几乎一致的描述。（分割结果：[`responses_caption.json`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/responses_caption.json)）
 
@@ -26,5 +28,6 @@
 
 <p align="center">
     <img src="comments.png" width="600"/>
-<p>
-<br>
+    <br>
+    <strong>最终输出包括：内容，评论，主题分析</strong>
+</p>
