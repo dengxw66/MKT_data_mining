@@ -20,9 +20,9 @@
 ## 多模态合并：
 1）得到视频帧间的分组后，使用不同的模型将多模态数据统一转化为文本。（这里只做了[`qwen-VL`](https://github.com/QwenLM/Qwen-VL)转化图片和文本两个模态）
 
-2）然后使用LLM+langchain（见[`GLM_RAG_summary.ipynb`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/GLM_RAG_summary.ipynb)）合并同一组的多模态数据的内容。（分组结果见[`merged_captions.json`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/merged_captions.json)）。
+2）然后使用LLM合并文本（见[`GLM_RAG_summary.ipynb`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/GLM_RAG_summary.ipynb)）合并同一组的多模态数据的内容。（分组结果见[`merged_captions.json`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/merged_captions.json)）。
 
-3）再次使用LLM+langchain（见[`GLM_RAG_topic.ipynb`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/GLM_RAG_topic.ipynb)）进一步总结分析主题分类等。（见[`summary_topic.json`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/summary_topic.json)）
+3）再次使用LLM提炼主题（见[`GLM_RAG_topic.ipynb`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/GLM_RAG_topic.ipynb)）进一步总结分析主题分类等。（见[`summary_topic.json`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/summary_topic.json)）
 
 <p align="center">
     <img src="comments.png" width="600"/>
