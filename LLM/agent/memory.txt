@@ -1,0 +1,13 @@
+{
+    "documents": [
+        "The stock market saw a significant increase in value due to positive economic policies.",
+        "New agricultural techniques have improved crop yields significantly.",
+        "Tech companies are investing heavily in artificial intelligence research.",
+        "Economic growth is expected to continue with new trade agreements.",
+        "Farmers are adopting new technologies to boost production."
+    ],
+    "example_topics": [
+        "Economy: Mentions policies, growth, and financial markets.",
+        "Agriculture: Discusses farming techniques, crop yields, and agricultural policies."
+    ]
+}
