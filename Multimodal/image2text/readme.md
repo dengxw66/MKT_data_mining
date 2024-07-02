@@ -1,7 +1,10 @@
 
 # social media 多模态转化
 
-以tiktok为例子,35个用户，每个用户若干个视频数据实验
+以tiktok为例子,35个用户，每个用户若干个视频数据实验。
+
+目标：分割输入的视频，统计长视频和短视频。并且统计对应的主题识别。
+
 
 ## 结果展示
 
@@ -13,20 +16,20 @@
     <strong>分类标准 main category和sub category</strong>
 </p>
 
-1）35个用户的主题原始数据见：[`all_statistic.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/output/all_statistic.csv)。
+1）35个用户的主题原始数据见：[`all_statistic.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/output/all_statistic.csv)。原始数据举例，维度是：user,video,time,description,Main Category,Subcategory
 
 <p align="center">
     <img src="raw_data.png" width="800"/>
     <br>
-    <strong>原始数据举例，维度是：user,video,time,description,Main Category,Subcategory</strong>
+    <strong>同一个用户的视频根据内容播放的先后顺序自然排列，time表示内容停留时长</strong>
 </p>
 
-2）定量统计指标见：[`user_time_topic_distribution.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/output/user_time_topic_distribution.csv) 。
+2）定量统计指标见：[`user_time_topic_distribution.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/output/user_time_topic_distribution.csv) 。统计指标举例，维度是：User,Time,Word,Count
 
 <p align="center">
     <img src="user_time_topic_distribution.png" width="600"/>
     <br>
-    <strong>统计指标举例，维度是：User,Time,Word,Count</strong>
+    <strong>根据停留时间time长短排序，找到用户最感兴趣的主题</strong>
 </p>
 
 
@@ -36,7 +39,7 @@
 <p align="center">
     <img src="all_fig.png" width="600"/>
     <br>
-    <strong>某用户分布图举例</strong>
+    <strong>某用户+27 726288507全视频段分布图举例</strong>
 </p>
 
 2. 因为用户停留的时间越多，说明这个topic越重要。为了更好的展示，我们统计了35个用户的大于20s的时间time，主题topic，计数count分布图。见文件夹：[`fig_over20`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/output/fig_over20) 
@@ -44,11 +47,13 @@
 <p align="center">
     <img src="over_20.png" width="600"/>
     <br>
-    <strong>某用户分布图举例</strong>
+    <strong>某用户+27 726288507长时间停留的主题分布图举例</strong>
 </p>
 
 
-## 识别不同视频片段：
+## 技术路线
+
+### 识别不同视频片段：
 1）所有视频每隔2s裁剪为图片（例子见：[`input`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/input)）。同时因tiktok的每一帧图片布局相对固定，使用裁剪功能，得到title数据，画面数据，点赞量等数据截图。（例子：[`data_seg.ipynb`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/data_seg.ipynb)）
 
 
@@ -64,7 +69,7 @@
 3）使用word2vec工具将文本转化为向量，度量前后文本向量相似度，就可以得到合适合适的分组（见[`data_cluster.ipynb`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/data_cluster.ipynb)）。
 
 
-## 多模态合并：
+### 多模态合并：
 1）得到视频帧间的分组后，使用不同的模型将多模态数据统一转化为文本。（这里只做了[`qwen-VL`](https://github.com/QwenLM/Qwen-VL)转化图片和文本两个模态）
 
 2）然后使用LLM合并文本（见[`GLM_RAG_summary.ipynb`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/GLM_RAG_summary.ipynb)）合并同一组的多模态数据的内容。（分组结果见[`merged_captions.json`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/merged_captions.json)）。
