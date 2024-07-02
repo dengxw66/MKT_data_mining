@@ -16,15 +16,15 @@
     <strong>分类标准 main category和sub category</strong>
 </p>
 
-1）35个用户的主题原始数据见：[`all_statistic.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/output/all_statistic.csv)。原始数据举例，维度是：user,video,time,description,Main Category,Subcategory
+1）按照每个视频的自然播放顺序排列：35个用户的主题原始数据见[`all_statistic.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/output/all_statistic.csv)。维度是：user,video,time,description,Main Category,Subcategory
 
 <p align="center">
-    <img src="raw_data.png" width="800"/>
+    <img src="raw_data.png" width="900"/>
     <br>
     <strong>同一个用户的视频根据内容播放的先后顺序自然排列，time表示内容停留时长</strong>
 </p>
 
-2）定量统计指标见：[`user_time_topic_distribution.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/output/user_time_topic_distribution.csv) 。统计指标举例，维度是：User,Time,Word,Count
+2）统计每个用户的视频停留时长和主题分布：定量统计指标见[`user_time_topic_distribution.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/output/user_time_topic_distribution.csv) 。维度是：User,Time,Word,Count
 
 <p align="center">
     <img src="user_time_topic_distribution.png" width="600"/>
