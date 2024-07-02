@@ -21,7 +21,7 @@
 <p align="center">
     <img src="raw_data.png" width="900"/>
     <br>
-    <strong>同一个用户的视频根据内容播放的先后顺序自然排列，time表示内容停留时长</strong>
+    <strong>视频根据内容播放的先后顺序自然排列，time表示内容停留时长</strong>
 </p>
 
 2）统计每个用户的视频停留时长和主题分布：定量统计指标见[`user_time_topic_distribution.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/output/user_time_topic_distribution.csv) 。维度是：User,Time,Word,Count
@@ -39,7 +39,7 @@
 <p align="center">
     <img src="all_fig.png" width="600"/>
     <br>
-    <strong>某用户+27 726288507全视频段分布图举例</strong>
+    <strong>举例：某用户+27 726288507的所有视频全时段主题分布图</strong>
 </p>
 
 2. 因为用户停留的时间越多，说明这个topic越重要。为了更好的展示，我们统计了35个用户的大于20s的时间time，主题topic，计数count分布图。见文件夹：[`fig_over20`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/output/fig_over20) 
@@ -47,7 +47,7 @@
 <p align="center">
     <img src="over_20.png" width="600"/>
     <br>
-    <strong>某用户+27 726288507长时间停留的主题分布图举例</strong>
+    <strong>举例：某用户+27 726288507的所有视频中长时间停留的主题分布图</strong>
 </p>
 
 
