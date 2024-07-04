@@ -34,7 +34,7 @@
 
 
 3）可视化展示：
-相同大主题用类似的颜色表示。
+相同小主题用类似的颜色表示。
 
 1. 35个用户的所有时间time，主题topic，计数count统计分布图，见文件夹：[`fig_alltime`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/output/fig_alltime) 
 
