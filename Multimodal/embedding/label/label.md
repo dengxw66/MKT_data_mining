@@ -89,7 +89,24 @@ nums_category_img,num_category_text,ratio
 34,2,0.1111111111111111
 ```
 
+- 可视化结果，横坐标是图片类别一共200类。纵坐标(颜色方块)是文本类别一共20类。我们选取每个图片类别中的top3文本类别展示。详细结果见[`top3_categories.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/embedding/label/output_all/top3_categories.csv)
+<p align="center">
+    <img src="./output_all/top3_categories_chart_part1.png" width="1000"/>
+    <br>
+    <strong>最终image-text聚类比例：0-66图片类</strong>
+</p>
 
+<p align="center">
+    <img src="./output_all/top3_categories_chart_part2.png" width="1000"/>
+    <br>
+    <strong>最终image-text聚类比例：67-132图片类</strong>
+</p>
+
+<p align="center">
+    <img src="./output_all/top3_categories_chart_part3.png" width="1000"/>
+    <br>
+    <strong>最终image-text聚类比例：133-199图片类</strong>
+</p>
 
 
 
