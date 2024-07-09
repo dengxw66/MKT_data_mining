@@ -30,7 +30,7 @@
 
 
 ## 存在问题: 
-1. 经过实验，google和llm检索不准确，ravenpack数据实在太大，检索太慢，暂时放弃。目前仍然是使用cl_news_sp500_20240105.csv和tw_after_incident_0_10进行匹配。此外，细腻度的两两匹配算法非常慢，运行一次需要一整天。
+1. 经过手动实验，google和llm检索不准确，ravenpack数据实在太大，检索太慢，暂时放弃。目前仍然是使用cl_news_sp500_20240105.csv和tw_after_incident_0_10进行匹配。此外，细腻度的两两匹配算法非常慢，运行一次需要一整天。
 2. 得到的最终结果tw_after_incident_0_10_origin_highest_with_matches_update-all3.xlsx，有很多无法匹配的空缺项。考虑扩大日期范围进行匹配，同时使用完整tw_after_incident_0_10进行检索（之前只选取了每5个中的top1，所以可能存在遗漏），下一步得到完整结果。
 
 
