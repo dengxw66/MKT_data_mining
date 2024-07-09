@@ -35,7 +35,7 @@ key_words = [
     "戒指", "鞋", "衫", "袍", "手镯", "单品", "装", "镜", "帽子", "袖"
 ]
 ```
-2. 读取['post_content', 'post_tag', 'post_comments']列中，以上述单词结尾的字符，每次截取前4个字符。得到相关风格词语表[`tags.txt`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/embedding/label/output_text/tags.txt)。
+2. 读取['post_content', 'post_tag', 'post_comments']列中，以上述单词结尾的字符，每次截取前"#"前的这字符，如“#简约穿搭 #黑白灰穿搭”，得到“简约穿搭”和“黑白灰穿搭”。得到相关风格词语表[`tags.txt`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/embedding/label/output_text/tags.txt)。
 3. 统计出现各个风格的频率，得到频率表[`word_frequencies.txt`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/embedding/label/output_text/word_frequencies.txt)。
 4. 使用paraphrase-multilingual-MiniLM-L12-v2得到embedding。使用Kmeans聚类，考虑各个分格出现频率为权重，进行有权重的聚类，聚类的数量人工定义为50个。结果见[`text_clusters.json`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/embedding/label/output_text/text_clusters.json)。得到各个关键词对应的类别，并重新分配回文件[`matched_categories_with_clusters.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/embedding/label/output_text/matched_categories_with_clusters.csv)。
 ```
@@ -111,11 +111,22 @@ nums_category_img,num_category_text,ratio
 
 
 
+## 待做：
+
+1. 不同聚类结果的定量展示？？可视化图片。说明不同的区别。
+2. kmeans聚类的拐点图片展示。
+3. 文本过滤方法太粗糙了？#号过滤，应该是比全句子更准吧？试试？
 
 
 
+| 聚类 | 对比1 | 对比2|
+|----------|----------|----------|
+|    image     |    每个图片必定分到唯一一类     |    风格本来就是模糊难以定义的，图片更准     |
+|   text     |    可能有的帖子有两类，有的帖子不属于任何一类     |    用户的文本定义不一定能描述完整穿搭风格，描述不足     |
 
 
+为什么先图片聚类，再文本聚类？而不是反过来？
+文本已经是语义定义了，适合做结果。图片是图片粗糙分类，适合做起点。反之不可行
 
 
 
