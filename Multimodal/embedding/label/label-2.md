@@ -12,7 +12,7 @@
 3. 使用Kmeans聚类，使用肘部法(Elbow Method)得到合适的聚类数量，大致100个类别为最佳（拐点处）。见文件：[`output_img`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/embedding/label/output_img),聚类结果举例见下图。[`clustered_labels100.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/embedding/label/output_img/clustered_labels100.csv)是具体全部类别结果。
 
 <p align="center">
-    <img src="text_kmeans.png" width="1000"/>
+    <img src="img-kmeans.png" width="1000"/>
     <br>
     <strong>图片聚类，肘部法(Elbow Method)，自适应得到最佳聚类数量</strong>
 </p>
@@ -31,7 +31,7 @@
 3. 使用Kmeans对['summary']聚类，使用肘部法(Elbow Method)得到合适的聚类数量，大致20个类别为最佳（拐点处）。结果见[`clustered_summaries20.json`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/embedding/label/output_text/clustered_summaries20.json)。
 
 <p align="center">
-    <img src="img_kmeans.png" width="1000"/>
+    <img src="text-kmeans.png" width="1000"/>
     <br>
     <strong>文本聚类，肘部法(Elbow Method)，自适应得到最佳聚类数量</strong>
 </p>
