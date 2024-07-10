@@ -26,8 +26,8 @@
 ## text聚类
 
 过程：
-1. 文本预处理清洗：使用使用stopwords_en.txt过滤语气词，然后转化emoji为文本格式。并合并pose的主要文本：['post_content', 'post_tag', 'post_title']为['summary']
-2. 使用[`imagebind`](https://arxiv.org/abs/2305.05665)做encoder得到embedding。保持和图片encoder一致。
+1. 文本预处理清洗：使用使用stopwords_en.txt过滤语气词，然后转化emoji为文本格式。并合并post的所有主要文本：['post_content', 'post_tag', 'post_title']为['summary']
+2. 使用[`imagebind`](https://arxiv.org/abs/2305.05665)做encoder得到['summary']的embedding。保持和图片encoder一致。
 3. 使用Kmeans对['summary']聚类，使用肘部法(Elbow Method)得到合适的聚类数量，大致20个类别为最佳（拐点处）。结果见[`clustered_summaries20.json`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/embedding/label/output_text/clustered_summaries20.json)。
 
 <p align="center">
@@ -76,7 +76,7 @@
 1. 首先使用image聚类，得到每个帖子的图片对应类别，见文件：[`clustered_labels100.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/embedding/label/output_img/labels.json)
 2. 再使用text聚类，得到每个帖子的文本对应类别，见文件：[`clustered_summaries20.json`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/embedding/label/output_text/clustered_summaries20.json)
 3. 图片和文本交叉索引序号。图片为一级标签，文本为二级标签。找到每个图片聚类中，占比最高的文本。见文件：[`combined_clustered_matched_image_text.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/embedding/label/output_all/combined_clustered_matched_image_text.csv)
-4. 统计指标见[`category_ratios.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/embedding/label/output_all/category_ratios.csv)，其中的ratio为比例/百分比。可以看到下图中category_img为70的类别中，category_text为3，4，7，17的占比最大
+4. 统计指标见[`category_ratios.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/embedding/label/output_all/category_ratios.csv)，其中的ratio为比例/百分比。见下图举例
 ```
 nums_category_img,num_category_text,ratio
 30,0,0.5
@@ -119,26 +119,25 @@ nums_category_img,num_category_text,ratio
 81,12,0.016666666666666666
 ```
 
-- 可视化结果，横坐标是图片类别一共200类。纵坐标(颜色方块)是文本类别一共20类。我们选取每个图片类别中的top3文本类别展示。详细结果见[`top3_categories_table_final.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/embedding/label/output_all/top3_categories_table_final.csv)
+- 可视化结果，横坐标是图片类别一共100类。纵坐标(颜色方块)是文本类别一共20类。我们选取每个图片类别中的top3文本类别展示。详细结果见[`all_categories_table_final.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/embedding/label/output_all/all_categories_table_final.csv)
 <p align="center">
-    <img src="./output_all/top3_categories_chart_part1.png" width="1000"/>
+    <img src="./output_all/all_categories_chart_part1.png" width="1000"/>
     <br>
     <strong>最终image-text聚类比例：0-33图片类</strong>
 </p>
 
 <p align="center">
-    <img src="./output_all/top3_categories_chart_part2.png" width="1000"/>
+    <img src="./output_all/all_categories_chart_part2.png" width="1000"/>
     <br>
     <strong>最终image-text聚类比例：34-67图片类</strong>
 </p>
 
 <p align="center">
-    <img src="./output_all/top3_categories_chart_part3.png" width="1000"/>
+    <img src="./output_all/all_categories_chart_part3.png" width="1000"/>
     <br>
     <strong>最终image-text聚类比例：67-99图片类</strong>
 </p>
 
-- 后续考虑过滤一些占比特别少的类型。仅保留各个类型占比前top3的类型
 
 ## 聚类方法分析
 使用Kmeans聚类，指定聚类的数量。得到各个类别。
