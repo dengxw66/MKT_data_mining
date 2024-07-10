@@ -36,6 +36,7 @@
     <strong>文本聚类，肘部法(Elbow Method)，自适应得到最佳聚类数量</strong>
 </p>
 
+- 文本聚类结果举例:
 ```
 - poster_id: 5a92b3dae8ac2b226e3a7cd5
   post_id: 66680b7a000000001d014d49
@@ -67,7 +68,6 @@
   summary: 入冬第一件绿色羽绒服！！好好看～:snowflake: 小红书 nan nan
   cluster: 18
 ```
-- 文本聚类结果举例
 
 
 
