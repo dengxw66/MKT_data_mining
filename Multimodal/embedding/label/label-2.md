@@ -20,7 +20,7 @@
 <p align="center">
     <img src="img_cluster.png" width="400"/>
     <br>
-    <strong>图片聚类结果举例，聚类中心的代表性样本</strong>
+    <strong>图片聚类结果举例</strong>
 </p>
 
 ## text聚类
@@ -67,7 +67,7 @@
   summary: 入冬第一件绿色羽绒服！！好好看～:snowflake: 小红书 nan nan
   cluster: 18
 ```
-- 文本聚类结果举例，聚类中心的代表性样本
+- 文本聚类结果举例
 
 
 
