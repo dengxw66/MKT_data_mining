@@ -119,7 +119,7 @@ Average Match Rate for Each UserID:
 
 # 4. 附录(具体顺序匹配规则)
 
-具体顺序匹配规则是，只统计符合先后顺序的项，中间有其他杂项插入则忽略。
+具体匹配规则是用llm和human中，长的list去匹配短的list。即我定义短的list是ground truth，更长的list因为有些错误clip插入，才导致更长。因此，计算长的list里面有多少是满足短list顺序的子片段，即为匹配数目。
 
 - 例，比如有:
     - m=[a,b,c,d,e,f,g,h,k],
