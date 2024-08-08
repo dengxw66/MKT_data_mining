@@ -17,7 +17,7 @@
     | type4 | 多对一匹配        | sub category一致     | 33.8%  |
 
 
-- 一对一匹配：使用llm中Topic与human中的main category进行一对一匹配，忽略llm的description中的其他category。
+- 一对一匹配：使用llm中Topic与human中的category进行一对一匹配，忽略llm的description中的其他category。
 - 多对一匹配：只要要llm的description的多个label 能cover human的分类（即只要存在某个项一致），就算匹配。
 - main category：根据Fig.1,分类标准，只要main category是同一类就算做匹配
 - sub category：根据Fig.1,分类标准，需要sub category一致才算做匹配
