@@ -102,7 +102,7 @@
 
 ## 4.1 一对一匹配
 
-- 使用llm中Topic与human进行一对一匹配，忽略llm的description中的其他category。更多细节见，附录4.1 代码见：[`data.ipynb`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/data.ipynb)
+- 使用llm中Topic与human进行一对一匹配，忽略llm的description中的其他category。更多细节见，附录5.1 代码见：[`data.ipynb`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/data.ipynb)
 
 - 源文件格式：
     - LLM见 [`DatafromLLM_Main_Categories.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/DatafromLLM_Main_Categories.csv)
@@ -164,7 +164,7 @@ Average Match Rate for Each UserID:
 ## 4.2 多对一匹配
 
 - 由于llm能得到同一个视频的多分类结果（见Fig.2, description），因此进行多分类匹配算法。
-    - 多对一匹配规则：每个视频片段，只要llm的description 多分类中能cover human的分类（即只要存在某个项一致），就算匹配。更多细节见，附录4.2 代码见：[`data_multi-category.ipynb`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/data_multi-category.ipynb)
+    - 多对一匹配规则：每个视频片段，只要llm的description 多分类中能cover human的分类（即只要存在某个项一致），就算匹配。更多细节见，附录5.2 代码见：[`data_multi-category.ipynb`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/data_multi-category.ipynb)
 
 - 源文件格式：
     - LLM见 [`DatafromLLM_Main_Categories_combined.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/DatafromLLM_Main_Categories_combined.csv)
@@ -216,10 +216,10 @@ Average Match Rate for Each UserID:
 
 
 
-# 4. 附录(具体顺序匹配规则)
+# 5. 附录(具体顺序匹配规则)
 
 
-## 4.1 单分类匹配算法
+## 5.1 单分类匹配算法
 
 具体匹配规则是用llm和human中，长的list去匹配短的list。即我定义短的list是ground truth，更长的list因为有些错误clip插入，才导致更长。因此，计算长的list里面有多少是满足短list顺序的子片段，即为匹配数目。
 
@@ -232,7 +232,7 @@ Average Match Rate for Each UserID:
 
 
 
-## 4.2 多分类匹配算法：
+## 5.2 多分类匹配算法：
 
 
 ### 示例 1
