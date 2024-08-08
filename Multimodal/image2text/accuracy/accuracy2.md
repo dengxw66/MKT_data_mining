@@ -102,13 +102,13 @@
 
 ## 4.1 一对一匹配
 
-- 使用llm中Topic与human中的main category进行匹配，忽略llm的description中的其他category。更多细节见，附录4.1 代码见：[`data.ipynb`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/data.ipynb)
+- 使用llm中Topic与human进行一对一匹配，忽略llm的description中的其他category。更多细节见，附录4.1 代码见：[`data.ipynb`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/data.ipynb)
 
-- 源文件：LLM见 [`DatafromLLM_Main_Categories.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/DatafromLLM_Main_Categories.csv)，其中每个list中有一个字符，比如"['Leisure and Comedy', 'Plot Type', 'Appearance', 'Life Sharing', 'Life Sharing', 'Games', 'Leisure and Comedy', 'Plot Type']"
+- 源文件格式：
+    - LLM见 [`DatafromLLM_Main_Categories.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/DatafromLLM_Main_Categories.csv)
+    - human见 [`DatafromRA_Main_Categories.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/DatafromRA_Main_Categories.csv)
 
-- human见 [`DatafromRA_Main_Categories.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/DatafromRA_Main_Categories.csv)，每个list只有一个字符，比如"['Celebrity Entertainment', 'Education and Campus', 'Social and Political News']"
-
-### 4.1.1 大类匹配
+### 4.1.1 main category匹配
 
 - 规则：只要main category是同一类就算做匹配
 - 每一项具体结果见 [`MatchedData_CategorySequences_single.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/MatchedData_CategorySequences.csv)，
@@ -131,7 +131,7 @@ Average Match Rate for Each UserID:
 
 
 
-### 4.1.2 子类匹配
+### 4.1.2 sub category匹配
 - 规则：必须sub category是一致才算做匹配
 - 每一项具体结果见 [`MatchedData_CategorySequences_single2.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/MatchedData_CategorySequences_single2.csv)，
 - 匹配统计结果见：[`accuracy_results_singlematch_subcategory.txt`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/accuracy_results_singlematch_subcategory.txt)
@@ -166,11 +166,11 @@ Average Match Rate for Each UserID:
 - 由于llm能得到同一个视频的多分类结果（见Fig.2, description），因此进行多分类匹配算法。
     - 多对一匹配规则：每个视频片段，只要llm的description 多分类中能cover human的分类（即只要存在某个项一致），就算匹配。更多细节见，附录4.2 代码见：[`data_multi-category.ipynb`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/data_multi-category.ipynb)
 
-- 源文件：LLM见 [`DatafromLLM_Main_Categories_combined.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/DatafromLLM_Main_Categories_combined.csv)，其中每个list的嵌套list中有多个字符，比如"[['Social and Political News', 'Satirical Parody',['Education and Campus', 'Landscape Photography', 'Creative Editing/Dubbing', 'Outfit Recommendations', 'Technology', 'Landscape Photography']]"
+- 源文件格式：
+    - LLM见 [`DatafromLLM_Main_Categories_combined.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/DatafromLLM_Main_Categories_combined.csv)
+    - human见 [`DatafromRA_Main_Categoriess_combined.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/DatafromRA_Main_Categoriess_combined.csv)
 
-- human见 [`DatafromRA_Main_Categoriess_combined.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/DatafromRA_Main_Categoriess_combined.csv)，每个list的嵌套list只有一个字符，比如"[['Leisure and Comedy'],['Games'], ['Leisure and Comedy'], ['Plot Type']]"
-
-### 4.2.1 大类匹配
+### 4.2.1 main category匹配
 
 - 规则：只要main category是同一类就算做匹配
 
@@ -193,7 +193,7 @@ Average Match Rate for Each UserID:
 
 
 
-### 4.2.2 子类匹配
+### 4.2.2 sub category匹配
 
 - 规则：必须sub category是一致才算做匹配
 
