@@ -1,28 +1,25 @@
 
 # 准确率计算
 
-核心结论：
-1. 曝光不足的视频(<2s的视频) 总平均准确率是0.4321，即大致43%
+
+1. 曝光不足的视频(<2s的视频) 匹配：
+    - 总平均准确率 大致43%
     - 典型问题：有些视帧间变化过大(甚至有黑屏)，这时模型无法继续识别为同一类。因为chat history不够长。如果让llm更多的参考前几帧的结果/提高chat history长度，应该会减少错误分类的情况。
-2. 曝光充足的视频(>2s的视频) 总平均准确率是 0.1999，即大致20%
-    - 典型问题：human的每个视频只有一个topic导致过于严格。实际上，每个视频会有多个topic同时符合。很多时候，llm的分类是make sense的，但是仍然和human的分类不同。如果可以允许多分类/权重计分，应该会提高精度。
+
+2. 曝光充足的视频(>2s的视频) 匹配：
+
+| Type  | 匹配数量对应      | 字符匹配标准       | 准确率  |
+|-------|----------------|------------------|--------|
+| type1 | 一对一匹配         | main category一致    | 19.9%  |
+| type2 | 一对一匹配         | sub category一致    | 1.9%  |
+| type3 | 多对一匹配         | main category一致    | 81.2%  |
+| type4 | 多对一匹配        | sub category一致     | 33.8%  |
 
 
-Here is the updated Markdown formatted table with the classification type split into two columns:
-
-| Type  | 分类类型1      | 分类类型2        | 准确率  | 备注                                                                                                 |
-|-------|----------------|------------------|--------|------------------------------------------------------------------------------------------------------|
-| type1 | 单分类         | main category    | 0.199  | 单分类指：使用llm中Topic与human中的main category进行匹配，忽略llm的description中的其他category。          |
-| type2 | 单分类         | sub category     | 0.019  | 单分类指：使用llm中Topic与human中的main category进行匹配，忽略llm的description中的其他category。          |
-| type3 | 多分类         | main category    | 0.812  | 多分类指：每个视频片段，只要llm的description多分类中能cover human的分类（即只要存在某个项一致），就算匹配。|
-| type4 | 多分类         | sub category     | 0.338  | 多分类指：每个视频片段，只要llm的description多分类中能cover human的分类（即只要存在某个项一致），就算匹配。|
-
-**备注：**
-
-- 单分类指：使用llm中Topic与human中的main category进行匹配，忽略llm的description中的其他category。
-- 多分类指：每个视频片段，只要llm的description 多分类中能cover human的分类（即只要存在某个项一致），就算匹配。
+- 一对一匹配：使用llm中Topic与human中的main category进行一对一匹配，忽略llm的description中的其他category。
+- 多对一匹配：主要llm的description 多分类中能cover human的分类（即只要存在某个项一致），就算匹配。
 - main category：根据Fig.1,分类标准，只要main category是同一类就算做匹配
-- sub category：根据Fig.1,分类标准，必须sub category是一致才算做匹配
+- sub category：根据Fig.1,分类标准，需要sub category一致才算做匹配
 
 # 1. 数据格式
 
@@ -102,7 +99,7 @@ Here is the updated Markdown formatted table with the classification type split 
 # 4. 结果展示：曝光充足的视频(>2s的视频) 
 
 
-## 4.1 单分类
+## 4.1 一对一匹配
 
 - 使用llm中Topic与human中的main category进行匹配，忽略llm的description中的其他category。更多细节见，附录4.1 代码见：[`data.ipynb`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/data.ipynb)
 
@@ -163,10 +160,10 @@ Average Match Rate for Each UserID:
         - (值得一提的是，实际上一个视频可以归于多个主题，感觉是make sense的)
     - 处理方法：大类匹配，不考虑sub category，如果属于同一个大类就算匹配。
 
-## 4.2 多分类匹配
+## 4.2 多对一匹配
 
 - 由于llm能得到同一个视频的多分类结果（见Fig.2, description），因此进行多分类匹配算法。
-    - 多分类匹配规则：每个视频片段，只要llm的description 多分类中能cover human的分类（即只要存在某个项一致），就算匹配。更多细节见，附录4.2 代码见：[`data_multi-category.ipynb`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/data_multi-category.ipynb)
+    - 多对一匹配规则：每个视频片段，只要llm的description 多分类中能cover human的分类（即只要存在某个项一致），就算匹配。更多细节见，附录4.2 代码见：[`data_multi-category.ipynb`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/data_multi-category.ipynb)
 
 - 源文件：LLM见 [`DatafromLLM_Main_Categories_combined.csv`](https://github.com/dengxw66/MKT_data_mining/tree/master/Multimodal/image2text/accuracy/DatafromLLM_Main_Categories_combined.csv)，其中每个list的嵌套list中有多个字符，比如"[['Social and Political News', 'Satirical Parody',['Education and Campus', 'Landscape Photography', 'Creative Editing/Dubbing', 'Outfit Recommendations', 'Technology', 'Landscape Photography']]"
 
